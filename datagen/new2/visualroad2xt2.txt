@@ -1,0 +1,901 @@
+
+
+ bowl: <>; car: < car11, car9, car12, car10>; person: < person1, person2, person6, person3, person7, person4>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car10, car9, car11, car12>; person: < person1, person3, person6, person2, person7, person4>; potted_plant: < potted_plant8, potted_plant13>; truck: < truck14>
+ bowl: <>; car: < car10, car11, car9>; person: < person4, person1, person6, person2, person3, person7>; potted_plant: < potted_plant8, potted_plant15, potted_plant13>; truck: < truck14>
+ bowl: <>; car: < car10, car11, car9>; person: < person1, person6, person2, person7, person3, person4>; potted_plant: < potted_plant8, potted_plant13, potted_plant15>; truck: <>
+ bowl: <>; car: < car10, car9, car12, car11>; person: < person1, person6, person2, person3, person7, person4>; potted_plant: < potted_plant13, potted_plant8, potted_plant15>; truck: <>
+ bowl: <>; car: < car10, car9, car12>; person: < person1, person6, person2, person7, person3, person4>; potted_plant: < potted_plant8, potted_plant13, potted_plant15>; truck: < truck14>
+ boat: <>; bowl: <>; car: < car14, car9, car10>; person: < person1, person2, person6, person7, person3, person4>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ bowl: <>; car: < car10, car12, car11, car9>; person: < person1, person2, person7, person3, person4, person6>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car12, car10, car11, car9>; person: < person1, person6, person2, person7, person3, person4>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car10, car14, car11, car9>; person: < person1, person6, person2, person7, person4>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ bowl: <>; car: < car10, car9, car11, car14>; cow: <>; person: < person2, person1, person6, person7, person4>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car12, car10, car11>; cow: <>; person: < person1, person2, person7, person4, person6>; potted_plant: < potted_plant8>; truck: <>
+ bowl: <>; car: < car12, car9, car11, car10>; cow: <>; person: < person1, person2, person4, person7, person6, person3>; potted_plant: < potted_plant8>; truck: <>
+ bowl: <>; car: < car10, car12, car9, car11>; cow: <>; person: < person1, person4, person3, person2, person7, person6>; potted_plant: < potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car10, car12, car9, car11>; cow: <>; person: < person2, person1, person3, person7, person6, person4>; potted_plant: < potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car12, car20, car10, car11>; person: < person1, person2, person6, person4, person3, person7>; potted_plant: < potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car10, car12, car9, car20, car11>; cow: <>; person: < person2, person4, person1, person7, person6>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car10, car9, car12, car11>; person: < person2, person7, person1, person6, person4>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car12, car10, car11>; person: < person7, person1, person2, person4, person6>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car12, car11, car10>; person: < person7, person2, person4, person6, person1>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car10, car11>; person: < person7, person2, person4, person1, person6>; potted_plant: < potted_plant8, potted_plant13>
+ bowl: <>; car: < car9, car11, car10>; person: < person7, person4, person6, person1, person2>; potted_plant: < potted_plant13, potted_plant15, potted_plant8>; truck: <>
+ bowl: <>; car: < car10, car9, car11>; person: < person4, person1, person7, person2, person6>; potted_plant: < potted_plant13, potted_plant15, potted_plant8>; truck: <>
+ bowl: <>; car: < car11, car10, car9>; person: < person4, person1, person7, person6, person2>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car11, car10>; person: < person1, person7, person4, person6, person2>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car10, car11>; person: < person1, person2, person6, person7, person4>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car9, car10, car11>; person: < person7, person6, person2, person1, person4>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car12, car10, car11, car9>; kite: <>; person: < person7, person1, person2, person4>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car9, car12, car11, car10>; person: < person7, person6, person1, person2, person4>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car9, car12, car11, car10>; person: < person7, person6, person1, person2, person4>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car14, car12, car9, car11, car10>; person: < person4, person7, person3, person6, person2, person1>; potted_plant: < potted_plant13, potted_plant8>
+ bowl: <>; car: < car14, car12, car9, car11, car10>; person: < person2, person3, person1, person7, person4>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ bowl: <>; car: < car12, car11, car9, car10>; person: < person3, person1, person2, person7, person4>; potted_plant: < potted_plant8, potted_plant13>; suitcase: <>; truck: <>
+ bowl: <>; car: < car24, car12, car9, car10>; person: < person1, person3, person4, person7>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ bowl: <>; car: < car24, car9, car10>; person: < person3, person4, person1, person2, person7>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car9, car24, car10>; person: < person3, person7, person2, person4, person1>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car24, car10, car9>; person: < person4, person3, person1, person2, person7>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car24, car9, car10>; person: < person1, person7, person4, person25, person2>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car24, car9>; person: < person7, person1, person4, person2, person26, person25>; potted_plant: < potted_plant8, potted_plant13>; truck: < truck10>
+ bowl: <>; car: < car24, car9, car10>; person: < person7, person1, person2, person25, person26, person4>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car24, car9, car10>; person: < person7, person1, person4, person25, person26, person2>; potted_plant: < potted_plant8, potted_plant13>; truck: <>
+ bowl: <>; car: < car9, car24, car10>; person: < person7, person4, person25, person2, person1, person6, person26>; potted_plant: < potted_plant8, potted_plant13>; suitcase: <>; truck: <>
+ bowl: <>; car: < car9, car24, car10>; person: < person1, person7, person4, person6, person25, person2>; potted_plant: < potted_plant13, potted_plant8>; truck: <>
+ bowl: <>; car: < car9, car24, car10>; person: < person1, person7, person25, person4, person6, person2>; potted_plant: < potted_plant8, potted_plant13>; suitcase: <>; truck: <>
+ bowl: <>; car: < car24, car10>; person: < person1, person2, person4, person25, person7, person6>; potted_plant: < potted_plant13, potted_plant8>; suitcase: <>; truck: < truck9>
+ bowl: <>; car: < car24, car9, car10>; person: < person1, person6, person4, person25, person7, person2>; potted_plant: < potted_plant13, potted_plant8>; suitcase: <>; truck: <>
+ bowl: <>; car: < car9, car24, car10>; person: < person2, person1, person7, person4, person28>; potted_plant: < potted_plant8, potted_plant13>; suitcase: <>; truck: <>
+ bowl: <>; car: < car9, car24, car10>; person: < person1, person2, person7, person4, person28>; potted_plant: < potted_plant8, potted_plant13>; suitcase: <>; truck: <>
+ bowl: <>; car: < car9, car24>; person: < person2, person4, person1, person28, person7, person6>; potted_plant: < potted_plant8, potted_plant13>; truck: < truck10>
+ bowl: <>; car: < car24, car10>; person: < person2, person4, person1, person28, person7>; potted_plant: < potted_plant8>; truck: <>
+ bowl: <>; car: < car24, car10>; cow: <>; person: < person2, person28, person1, person7, person4>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car10, car34, car24>; person: < person2, person4, person1, person7, person28>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car9, car34, car24, car30, car10>; cow: <>; person: < person2, person1, person7, person28, person6, person4>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car24, car10, car9>; person: < person2, person7, person28, person1, person4>; potted_plant: < potted_plant8>; truck: <>
+ bowl: <>; car: < car9, car24, car30, car10>; person: < person2, person36, person7, person28, person4>; potted_plant: < potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car24, car10, car9, car30>; cow: <>; person: < person2, person7, person28, person4>; potted_plant: < potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car10, car11>; cow: <>; person: < person6, person7, person28, person4>; potted_plant: < potted_plant8>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car10, car11, car30>; cow: <>; person: < person2, person7, person4, person28>; potted_plant: < potted_plant8>; truck: <>
+ boat: < boat14>; bowl: <>; car: < car9, car30, car10>; person: < person2, person7, person4, person28>; potted_plant: <>; truck: <>
+ boat: < boat14>; bowl: <>; car: < car9, car30, car10>; cow: <>; person: < person2, person28, person7, person4>; potted_plant: <>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car10, car30>; person: < person2, person7, person28, person4>; potted_plant: <>; truck: <>
+ boat: < boat14>; bowl: <>; car: < car9, car30, car10>; person: < person7, person2, person28, person1, person4, person6>; potted_plant: <>; truck: <>
+ boat: < boat14>; bowl: <>; car: < car9, car30, car10>; person: < person6, person7, person2, person28, person1, person4>; potted_plant: <>; truck: <>
+ boat: < boat14>; bowl: <>; car: < car9, car10>; person: < person6, person7, person28, person4, person1>; potted_plant: <>; truck: <>
+ boat: <>; bowl: <>; car: < car30, car10>; person: < person7, person2, person6, person28, person4>; potted_plant: <>; truck: <>
+ boat: <>; bowl: <>; car: < car30, car10>; person: < person1, person2, person7, person28, person4>; potted_plant: <>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car30, car10>; person: < person2, person1, person28, person7, person25, person4>; potted_plant: <>; truck: <>
+ boat: <>; bowl: <>; car: < car9, car10>; person: < person1, person25, person2, person7, person6, person28, person4>; potted_plant: <>; truck: < truck30>
+ boat: <>; bowl: <>; car: < car10>; dog: <>; person: < person1, person28, person25, person4, person6, person7>; potted_plant: <>; truck: < truck30>
+ boat: <>; bowl: <>; car: < car30, car10>; person: < person2, person25, person1, person4, person28, person7>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car10, car30>; dog: <>; person: < person2, person7, person25, person28, person4>; potted_plant: < potted_plant13>
+ bowl: <>; car: < car30, car10>; person: < person2, person7, person28, person25, person4>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car10, car30>; person: < person2, person7, person25, person28, person4>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car10>; person: < person2, person25, person28, person7, person4>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car30>; person: < person2, person25, person7, person1, person4, person28>; potted_plant: < potted_plant13>; truck: < truck10>
+ bowl: <>; car: < car30, car10>; person: < person2, person25, person28, person7, person4, person1>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car10, car30>; person: < person25, person2, person28, person7>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car30, car10>; person: < person25, person2, person28, person7, person4>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car10, car30>; person: < person2, person7, person25, person28, person1, person4>; potted_plant: <>; truck: < truck9>
+ bird: <>; bowl: <>; car: < car30, car10>; person: < person2, person7, person25, person28, person1, person4>; potted_plant: <>; truck: <>
+ boat: <>; bowl: <>; car: < car30, car10>; kite: <>; person: < person2, person7, person25, person28, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ boat: <>; bowl: <>; car: < car30, car10>; person: < person2, person25, person7, person4, person28>; potted_plant: < potted_plant13>; truck: < truck9>
+ boat: < boat14>; bowl: <>; car: < car30, car10>; kite: <>; person: < person2, person7, person4, person28, person25>; potted_plant: < potted_plant13>; truck: < truck9>
+ boat: < boat14>; bowl: <>; car: < car30, car10>; person: < person2, person25, person7, person4, person28>; potted_plant: < potted_plant13>; truck: < truck9>
+ boat: <>; bowl: <>; car: < car10, car30>; dog: <>; person: < person25, person2, person7, person4, person28>; potted_plant: < potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car30, car10>; dog: <>; person: < person25, person2, person7, person4, person36, person28>; potted_plant: < potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car10>; cow: <>; person: < person2, person7, person25, person4, person28>; potted_plant: < potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car30, car10>; cow: <>; person: < person25, person2, person7, person4, person28, person36>; potted_plant: < potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car10, car30>; person: < person25, person2, person7, person28, person1, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10, car30>; cow: <>; person: < person2, person28, person7, person36, person1, person25, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car30, car10>; cow: <>; person: < person2, person25, person28, person7, person36, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car30, car10>; person: < person25, person28, person2, person36, person7, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10>; person: < person28, person25, person36, person2, person7, person4>; potted_plant: < potted_plant13>; truck: < truck9, truck30>
+ bowl: <>; car: < car10, car30>; person: < person28, person36, person2, person4, person7, person25>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10, car30>; person: < person25, person36, person28, person1, person7, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10>; person: < person36, person1, person25, person28, person7, person4>; potted_plant: < potted_plant13>; truck: < truck9, truck30>
+ bowl: <>; car: < car30, car10>; person: < person25, person28, person36, person1, person7, person4>; potted_plant: < potted_plant13, potted_plant44>; truck: < truck9>
+ bowl: <>; car: < car30>; motorcycle: <>; person: < person36, person28, person1, person7, person25, person4>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck10, truck9>
+ bowl: <>; car: < car30, car10>; person: < person36, person7, person25, person28, person4>; potted_plant: < potted_plant13, potted_plant44>; truck: < truck9>
+ bowl: <>; car: < car30, car10>; person: < person25, person36, person4, person7>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car30, car10>; person: < person36, person25, person7, person4>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10, car30>; person: < person25, person36, person28, person7, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10, car30>; person: < person36, person25, person28, person4, person7>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck47, truck9>
+ bowl: <>; car: < car10>; person: < person25, person36, person4, person28>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck47, truck9>
+ bowl: <>; car: < car10>; person: < person36, person25, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10, car30>; person: < person25, person36, person28, person2, person4, person7>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10, car30>; person: < person36, person2, person4, person7>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car30, car10>; cow: <>; person: < person25, person36, person2, person4>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10>; cow: <>; person: < person36, person25, person4, person2>; potted_plant: < potted_plant13, potted_plant44>; truck: < truck9>
+ bowl: <>; car: < car30, car10>; cow: <>; person: < person25, person36, person2, person4>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck47, truck9>
+ bowl: <>; car: < car30, car10>; cow: <>; person: < person36, person25, person2, person4>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck9, truck47>
+ bowl: <>; car: <>; cow: <>; person: < person48, person25, person36, person4>; potted_plant: < potted_plant13, potted_plant44>; truck: < truck30, truck9>
+ bowl: <>; car: < car30, car10>; person: < person36, person25, person48, person2, person4>; potted_plant: < potted_plant44, potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car10>; cow: <>; kite: <>; person: < person28, person25, person2, person36, person4>; potted_plant: < potted_plant13>; truck: < truck30, truck9>
+ bowl: <>; car: < car10>; kite: <>; person: < person2, person36, person25, person48, person28>; potted_plant: < potted_plant13>; truck: < truck30, truck47>
+ bowl: <>; car: < car10, car49>; person: < person25, person48, person36, person2, person28>; potted_plant: < potted_plant13>; truck: < truck47, truck9>
+ bowl: <>; car: < car49, car10>; person: < person25, person48, person2, person28>; potted_plant: < potted_plant13>; truck: < truck47, truck9>
+ bowl: <>; car: < car47, car49, car10>; person: < person25, person48, person2, person28, person4>; potted_plant: < potted_plant13>; truck: < truck9>
+ bowl: <>; car: < car49, car10>; person: < person25, person2, person48, person4>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car49, car10, car30, car9>; person: < person25, person2, person48, person4>; potted_plant: <>; truck: < truck47>
+ bowl: <>; car: < car30, car10>; person: < person25, person48, person4>; potted_plant: <>; truck: < truck47>
+ bowl: <>; car: < car30, car49, car10>; person: < person25, person36, person4>; potted_plant: <>; truck: < truck47>
+ bowl: <>; car: < car30, car49, car10>; person: < person36, person4>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car30, car49>; person: < person36, person4>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car10, car30>; person: < person25, person36, person4>; potted_plant: < potted_plant44>; truck: <>
+ bowl: <>; car: < car30, car10>; person: < person25, person36, person28, person4>; potted_plant: < potted_plant44>; truck: <>
+ bowl: <>; car: < car30>; person: < person25, person36, person28, person4>; potted_plant: <>; suitcase: < suitcase10>; truck: <>
+ bowl: <>; car: < car10, car30>; person: < person36, person4, person25>; potted_plant: <>; suitcase: <>; truck: <>
+ bowl: <>; car: < car30, car10>; person: < person36, person25, person4>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car30>; kite: <>; person: < person36, person25, person28, person4>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car30>; person: < person28, person36, person4, person25>; potted_plant: <>; suitcase: <>; truck: <>
+ bowl: <>; car: < car30>; person: < person25, person28, person36, person4>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car30>; person: < person25, person36, person28, person4>; potted_plant: <>; suitcase: <>; truck: <>
+ bowl: <>; car: < car49>; person: < person36, person28, person25>; potted_plant: < potted_plant44>; truck: < truck30>
+ bowl: <>; car: < car30, car49>; person: < person28, person25, person36>; potted_plant: < potted_plant44>; truck: <>
+ bowl: <>; car: < car49>; person: < person28, person36>; potted_plant: < potted_plant44>; truck: < truck30>
+ bowl: <>; car: < car49>; person: < person28, person36>; potted_plant: < potted_plant44>; truck: < truck30>
+ bowl: <>; car: < car49>; person: < person36, person25>; potted_plant: < potted_plant44>; truck: <>
+ bowl: <>; car: < car49>; person: < person25, person36>; potted_plant: < potted_plant44>; truck: <>
+ bowl: <>; car: <>; person: < person48, person25, person28, person50, person36>; potted_plant: <>; truck: < truck30>
+ bench: <>; bowl: <>; car: < car30, car49>; kite: <>; person: < person48, person36, person28, person25, person50>; potted_plant: <>; truck: <>
+ backpack: <>; bowl: <>; car: < car49>; kite: <>; person: < person36, person48, person28, person50>; potted_plant: <>; suitcase: <>; truck: < truck30>
+ backpack: <>; bowl: <>; car: < car30, car49>; kite: <>; person: < person36, person48, person28, person50>; potted_plant: <>; suitcase: <>; truck: <>
+ backpack: <>; bench: <>; bowl: <>; car: < car30>; kite: <>; person: < person36, person48, person28, person50>; potted_plant: <>; truck: < truck47>
+ backpack: <>; bench: <>; bowl: <>; car: < car30>; person: < person25, person28, person48, person50>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ backpack: <>; bowl: <>; car: < car30>; person: < person28, person50, person25>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ bowl: <>; car: < car47, car30>; person: < person50, person36, person28, person25>; potted_plant: < potted_plant13>; suitcase: <>; truck: <>
+ bowl: <>; car: < car30>; person: < person36, person50, person25, person28>; potted_plant: < potted_plant13>; suitcase: <>; truck: <>
+ boat: <>; bowl: <>; car: <>; person: < person50>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck30>
+ boat: <>; bowl: <>; car: <>; person: < person28, person25, person50, person48, person36>; potted_plant: < potted_plant13>; truck: < truck47, truck30>
+ bowl: <>; car: < car30>; person: < person28, person36, person48, person50, person25>; potted_plant: < potted_plant13>; traffic_light: <>; truck: < truck47>
+ bowl: <>; car: <>; person: < person48, person25, person50, person36>; potted_plant: < potted_plant13>; traffic_light: <>; truck: < truck30, truck47>
+ bowl: <>; car: <>; person: < person48, person28, person50, person36>; potted_plant: < potted_plant13>; truck: < truck47, truck30>
+ bowl: <>; car: <>; person: < person28, person48, person50>; potted_plant: < potted_plant13>; truck: < truck30, truck47>
+ bowl: <>; car: <>; kite: <>; person: < person48, person28, person56, person50>; potted_plant: < potted_plant13>; truck: < truck30, truck47>
+ bowl: <>; car: <>; kite: <>; person: < person48, person50, person56>; potted_plant: < potted_plant13>; truck: < truck30, truck47>
+ bowl: <>; car: <>; kite: <>; person: < person56, person50>; potted_plant: < potted_plant13>; truck: < truck30, truck47>
+ bowl: <>; car: <>; person: < person48, person56, person50>; potted_plant: < potted_plant13>; truck: < truck47, truck30>
+ bowl: <>; car: <>; person: < person56, person48, person50>; potted_plant: < potted_plant13>; truck: < truck47, truck30>
+ bowl: <>; car: < car47>; person: < person48, person50>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: <>; person: < person48, person50>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: <>; person: < person48, person56>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: < car30>; person: < person48, person56>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: < car30, car47>; person: < person48, person56>; potted_plant: < potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car47, car30>; person: < person48, person56>; potted_plant: < potted_plant13>; truck: <>
+ boat: <>; bowl: <>; car: < car47>; person: < person48, person56>; potted_plant: < potted_plant13>; truck: < truck30>
+ bench: <>; boat: <>; bowl: <>; car: <>; person: < person56>; potted_plant: < potted_plant13>; truck: < truck30>
+ bench: <>; boat: <>; bowl: <>; car: <>; cow: <>; person: < person48, person50>; potted_plant: < potted_plant13>; truck: < truck30>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person48, person50, person56>; potted_plant: < potted_plant13>; truck: <>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person48, person50, person36, person56>; potted_plant: < potted_plant13>; truck: <>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person36, person48, person56>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person48, person36, person56>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: < car30>; person: < person48, person56>; potted_plant: <>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person36, person28, person56>; potted_plant: <>; truck: < truck47, truck30>
+ bowl: <>; car: < car30>; cow: <>; person: < person28, person56, person36>; potted_plant: <>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; cow: <>; person: < person36, person28, person56>; potted_plant: <>; truck: < truck47, truck30>
+ bowl: <>; car: < car30>; cow: <>; person: < person36, person56, person48>; potted_plant: <>; truck: < truck47>
+ bowl: <>; car: <>; cow: <>; person: < person61, person56, person36>; potted_plant: <>; truck: < truck47, truck30>
+ bench: <>; bowl: <>; car: < car30>; person: < person61, person56, person36>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person36, person61>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person36, person61>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person48, person36, person61>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person48, person36, person61>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person63, person48, person36, person61>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person61, person48, person63, person36>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person36, person48>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: <>; potted_plant: <>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person48>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person48>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person48>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: <>; person: < person48, person56>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: <>; person: < person48, person63, person56, person36>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: <>; person: < person48, person63, person36>; potted_plant: <>; truck: < truck47>
+ bowl: <>; car: <>; person: < person48, person63, person36>; potted_plant: <>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person48, person36, person56>; potted_plant: <>; truck: < truck47>
+ bench: <>; bowl: <>; car: <>; person: < person48, person56, person36>; potted_plant: <>; truck: < truck47>
+ backpack: <>; bowl: <>; car: <>; person: < person48, person56, person36>; potted_plant: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: <>; person: < person48, person36>; potted_plant: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: <>; person: < person36, person48>; potted_plant: < potted_plant13>; truck: < truck47>
+ backpack: <>; bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person36>; potted_plant: < potted_plant13>; truck: < truck47>
+ backpack: <>; boat: <>; bowl: <>; car: < car30>; person: < person36, person56>; potted_plant: <>; truck: < truck47>
+ boat: <>; bowl: <>; car: < car30>; person: < person48, person36, person56>; potted_plant: <>; suitcase: <>; truck: < truck47>
+ backpack: <>; boat: <>; bowl: <>; car: < car30>; person: < person48, person36>; potted_plant: <>; truck: < truck47>
+ backpack: <>; boat: <>; bowl: <>; car: < car30>; person: < person48, person36>; potted_plant: <>; suitcase: <>; truck: < truck47>
+ bowl: <>; car: < car30>; person: <>; potted_plant: <>; suitcase: <>; truck: < truck47>
+ backpack: <>; boat: <>; bowl: <>; car: < car30>; person: <>; potted_plant: <>; truck: < truck47>
+ backpack: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; truck: < truck47>
+ backpack: <>; bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ backpack: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ backpack: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; skateboard: <>; suitcase: <>; truck: < truck47>
+ boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; skateboard: <>; suitcase: <>; truck: < truck47>
+ backpack: <>; bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; skateboard: <>; suitcase: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47, truck30>
+ bench: <>; boat: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; skateboard: <>; suitcase: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; skateboard: <>; suitcase: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; skateboard: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; skateboard: < skateboard77>; suitcase: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; skateboard: <>; suitcase: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; skateboard: < skateboard77>; suitcase: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; skateboard: < skateboard77>; suitcase: <>; truck: < truck47>
+ boat: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; skateboard: < skateboard77>; truck: < truck47, truck30>
+ boat: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; truck: < truck47>
+ boat: <>; bowl: <>; car: <>; person: < person70, person36>; potted_plant: < potted_plant13>; skateboard: <>; truck: <>
+ bowl: <>; car: < car30>; person: < person70, person36>; potted_plant: < potted_plant13>; skateboard: <>; truck: < truck47>
+ boat: <>; bowl: <>; car: < car30>; person: < person70, person36>; potted_plant: < potted_plant13>; skateboard: <>; truck: < truck47>
+ bowl: <>; car: < car30>; person: < person70, person36>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; bowl: <>; car: < car30>; person: < person70, person36, person56>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: < car30>; person: < person70, person56>; potted_plant: < potted_plant13>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; bus: <>; car: < car30>; person: < person70, person56>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ bench: <>; bowl: <>; car: < car30>; person: < person56, person70>; potted_plant: <>; truck: < truck47>
+ bowl: <>; car: < car30>; person: < person70, person56>; potted_plant: <>; truck: < truck47>
+ boat: <>; bowl: <>; bus: <>; car: < car30>; dog: <>; person: < person70>; potted_plant: <>; truck: < truck47>
+ bench: <>; boat: <>; bowl: <>; bus: <>; car: < car30>; person: < person70>; potted_plant: <>; suitcase: <>; truck: < truck47>
+ backpack: <>; boat: <>; bowl: <>; bus: <>; car: < car30>; person: < person70>; potted_plant: <>; suitcase: <>; truck: < truck47>
+ backpack: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: <>; suitcase: <>; truck: < truck47>
+ bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; suitcase: < suitcase77>; truck: < truck47>
+ bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; suitcase: < suitcase77>; truck: < truck47>
+ backpack: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13>; suitcase: < suitcase77>; truck: < truck47>
+ backpack: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant13, potted_plant86>; suitcase: < suitcase77>; truck: < truck47>
+ backpack: <>; bowl: <>; car: < car30>; person: < person70>; potted_plant: < potted_plant86, potted_plant13>; suitcase: <>; truck: < truck47>
+ backpack: <>; bowl: <>; car: <>; kite: <>; person: < person70>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>; truck: < truck47>
+ bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>; truck: <>
+ backpack: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>; truck: < truck47>
+ bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ backpack: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; truck: < truck47>
+ backpack: <>; bowl: <>; car: <>; person: < person70>; potted_plant: < potted_plant13>; suitcase: <>; truck: < truck47>
+ car: <>; person: <>; potted_plant: < potted_plant86, potted_plant13>; suitcase: <>; toilet: <>; truck: < truck47>
+ car: < car30>; person: < person89>; potted_plant: < potted_plant86, potted_plant13>; suitcase: <>; toilet: <>; truck: < truck47>
+ car: < car30>; person: < person89>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>; toilet: <>; truck: < truck47>
+ backpack: <>; car: < car30>; person: < person89, person36>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>; truck: < truck47>
+ car: < car30, car47>; person: < person89>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>; truck: <>
+ car: < car30, car47>; person: < person89>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>; truck: <>
+ bowl: <>; car: < car30, car47>; person: < person89>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>
+ bowl: <>; car: < car30, car47>; person: < person89>; potted_plant: < potted_plant13, potted_plant86>; suitcase: < suitcase77>
+ bowl: <>; car: < car47, car77, car30>; person: < person89>; potted_plant: < potted_plant13>; suitcase: <>
+ bowl: <>; car: < car77, car30, car47>; person: < person89>; potted_plant: < potted_plant13, potted_plant86>; suitcase: <>; truck: <>
+ bowl: <>; car: < car30, car47, car77, car96>; person: < person89>; potted_plant: < potted_plant13, potted_plant86>
+ bowl: <>; car: < car47, car30, car96>; person: < person89>; potted_plant: < potted_plant13>
+ bowl: <>; car: < car77, car30>; person: < person89>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: < car47, car30>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car47, car30>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car77, car30, car47>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car77, car30>; person: < person89>; potted_plant: < potted_plant13>; truck: < truck47>
+ bowl: <>; car: < car30, car47>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car30, car47, car77>; person: < person70, person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car30, car47, car77>; person: < person89, person70>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car77>; person: < person70, person89>; potted_plant: < potted_plant86, potted_plant13>; truck: < truck47>
+ bowl: <>; car: < car83, car47>; person: < person89, person70>; potted_plant: < potted_plant86, potted_plant13>; suitcase: <>; truck: <>
+ bowl: <>; car: < car47, car77>; person: < person89, person70>; potted_plant: < potted_plant13, potted_plant86>; truck: <>
+ bowl: <>; car: < car47>; person: < person89, person70>; potted_plant: < potted_plant13, potted_plant86>; truck: <>
+ bowl: <>; car: < car30, car83, car77>; cow: <>; person: < person89>; potted_plant: < potted_plant13, potted_plant86>; truck: < truck47>
+ bowl: <>; car: < car83, car30, car77>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car77>; cow: <>; person: < person89>; potted_plant: < potted_plant13>; truck: < truck83, truck47>
+ bowl: <>; car: < car77, car83, car47>; cow: <>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car47, car77>; person: < person89>; potted_plant: < potted_plant13>; truck: < truck83>
+ bowl: <>; car: < car83, car77, car47>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car77, car47>; person: < person89>; potted_plant: < potted_plant13, potted_plant100, potted_plant86>; truck: <>
+ bowl: <>; car: < car77, car83, car47>; person: < person89>; potted_plant: < potted_plant100, potted_plant13, potted_plant86>; truck: <>
+ bowl: <>; car: < car77, car83, car30>; person: < person89>; potted_plant: < potted_plant13, potted_plant100, potted_plant86>; truck: < truck47>
+ bowl: <>; car: < car30, car77, car47, car83>; person: < person89>; potted_plant: < potted_plant100, potted_plant86>; truck: <>
+ bowl: <>; car: < car77, car30, car47>; person: < person89>; potted_plant: < potted_plant13, potted_plant100, potted_plant86>; truck: < truck83>
+ bowl: <>; car: < car77, car47, car30>; person: < person89>; potted_plant: < potted_plant100, potted_plant86>; truck: < truck83>
+ bowl: <>; car: < car77, car30, car47>; person: < person89>; potted_plant: < potted_plant13, potted_plant100>; truck: < truck83>
+ bowl: <>; car: < car30, car77>; person: < person89>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car77, car30, car83>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; traffic_light: <>; truck: <>
+ bowl: <>; car: <>; person: < person89>; potted_plant: < potted_plant13>; truck: < truck83>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car77>; person: < person89>; potted_plant: < potted_plant13>; truck: < truck83>
+ bowl: <>; car: < car83, car77>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car77>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car77>; person: < person89, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car77, car83>; person: < person89, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car77>; person: < person89, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car77>; person: < person89, person105>; potted_plant: < potted_plant13>
+ bowl: <>; car: < car30, car77, car83>; person: < person89, person105>; potted_plant: < potted_plant13>
+ bowl: <>; car: < car83, car30, car77>; person: < person89, person105>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car77, car83>; person: < person89, person105>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car77>; person: < person89, person105>; potted_plant: < potted_plant100, potted_plant13>; truck: < truck83>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: <>; person: < person89, person105>; potted_plant: < potted_plant13>; truck: < truck83>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; truck: < truck77>
+ bowl: <>; car: < car77, car83>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89>; potted_plant: < potted_plant13>; truck: < truck77>
+ bowl: <>; car: < car83, car77>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person113>; potted_plant: < potted_plant13>
+ bowl: <>; car: < car83>; person: < person89, person113>; potted_plant: < potted_plant13>
+ bowl: <>; car: <>; person: < person89, person113>; potted_plant: < potted_plant13>; traffic_light: <>; truck: < truck83>
+ bowl: <>; car: < car83>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car115>; person: < person89, person113, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person113, person105>; potted_plant: < potted_plant13>; traffic_light: <>
+ bowl: <>; car: < car115>; person: < person89, person113, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person113, person105>; potted_plant: < potted_plant13>; traffic_light: <>; truck: <>
+ bowl: <>; car: <>; person: < person89, person113, person105>; potted_plant: < potted_plant13>; traffic_light: <>; truck: <>
+ bowl: <>; car: <>; person: < person89, person113, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person113, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person113, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person113, person89, person105>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person113, person105>; potted_plant: < potted_plant100, potted_plant13>; truck: <>
+ bowl: <>; car: < car83>; person: < person89, person113, person105>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car115>; person: < person113, person89>; potted_plant: < potted_plant13>; truck: < truck83>
+ bowl: <>; car: < car83, car115>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car115>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car115>; person: < person113, person89>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car115>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car115>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car120, car83, car115>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car120, car83, car115>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car120, car83, car115>; person: < person89, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113>; potted_plant: < potted_plant100, potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83, car120, car115>; person: < person113, person89>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83, car120>; person: < person89, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83>; person: < person89, person113, person122>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113, person122>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83, car120, car115>; person: < person89, person113, person122>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car83, car115>; person: < person89, person113, person122>; potted_plant: < potted_plant100, potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car115>; person: < person89, person113, person122>; potted_plant: < potted_plant100, potted_plant13>; truck: <>
+ bowl: <>; car: < car83, car115>; person: < person89, person113, person122>; potted_plant: < potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car115>; person: < person89, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car115>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113, person122>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ boat: <>; bowl: <>; car: < car115>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: <>; person: < person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bird: <>; bowl: <>; car: <>; cow: <>; person: < person89, person113, person127>; potted_plant: < potted_plant13, potted_plant100>
+ bird: <>; bowl: <>; cow: <>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bird: <>; bowl: <>; cow: < cow129>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person113, person128>; potted_plant: < potted_plant13, potted_plant100>
+ bird: <>; bowl: <>; car: <>; cow: < cow129>; person: < person89, person113, person128>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car131>; cow: < cow129>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: <>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: <>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bird: <>; bowl: <>; car: <>; cow: <>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: <>; person: < person89, person113, person128>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car133>; cow: <>; person: < person89, person113, person128>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car133>; cow: <>; person: < person89, person113, person128>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car133>; cow: < cow129>; person: < person89, person113, person128>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car133, car115>; cow: < cow129>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ boat: <>; bowl: <>; car: < car133, car115>; cow: < cow129>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ boat: <>; bowl: <>; car: < car133, car115>; cow: < cow129>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car133, car115>; cow: < cow129>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115, car133>; cow: <>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car133>; cow: < cow129>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car133>; cow: < cow129>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115, car133>; cow: < cow129>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; cow: < cow129>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; cow: < cow129>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; cow: <>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; cow: <>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; cow: <>; person: < person128, person89, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>; sheep: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person113>; potted_plant: < potted_plant100, potted_plant13>; sheep: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person113>; potted_plant: < potted_plant100, potted_plant13>; sheep: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person141, person113>; potted_plant: < potted_plant100, potted_plant13>; sheep: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person113, person141>; potted_plant: < potted_plant100, potted_plant13>; sheep: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person113, person141>; potted_plant: < potted_plant100, potted_plant13>; sheep: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person113, person141>; potted_plant: < potted_plant100, potted_plant13>; truck: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person113, person141>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: < cow129>; person: < person128, person113, person89, person141>; potted_plant: < potted_plant100, potted_plant13>; sheep: <>; truck: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person128, person143, person113, person89, person141>; potted_plant: < potted_plant13, potted_plant100>; sheep: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person128, person143, person113, person89, person141>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person143, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person143, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ car: <>; cow: < cow129>; person: < person89, person128, person143, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person113, person143, person144, person128>; potted_plant: < potted_plant13, potted_plant100>
+ car: <>; cow: <>; person: < person89, person128, person143, person113, person144>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; cow: <>; person: < person89, person143, person144, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person143, person113, person144, person128>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; cow: < cow129>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; cow: <>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; cow: <>; person: < person128, person89, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; cow: <>; person: < person89, person113, person128>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person128, person89, person145, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ boat: <>; bowl: <>; car: <>; cow: <>; person: < person89, person128, person145, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ boat: <>; bowl: <>; car: < car115>; cow: <>; person: < person89, person143, person145, person113, person128>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ boat: <>; bowl: <>; car: < car115>; cow: <>; person: < person128, person143, person145, person141, person89>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ boat: <>; bowl: <>; car: <>; cow: < cow129>; person: < person89, person128, person145, person143>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ boat: <>; bowl: <>; car: <>; cow: < cow129>; person: < person89, person145, person143, person128>; potted_plant: < potted_plant13, potted_plant100>
+ boat: <>; bowl: <>; car: < car115>; cow: < cow129>; person: < person89, person145, person128, person143>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; cow: < cow129>; person: < person145, person128, person89>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person145, person128>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: <>; cow: < cow129>; person: < person89, person145, person128>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: <>; cow: <>; person: < person89, person145, person128, person143>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: <>; person: < person89, person128, person143, person144, person145>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; person: < person89, person128, person143, person144, person145, person141>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car115>; person: < person89, person128, person143, person144, person145, person141>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: < car115>; person: < person89, person143, person145, person128, person113, person141>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: <>; cow: <>; person: < person89, person128, person145, person143, person144, person141, person113>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: <>; cow: <>; person: < person89, person143, person141, person145, person128, person113, person144>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: <>; person: < person89, person113, person141, person143, person144, person128>; potted_plant: < potted_plant100, potted_plant13>
+ bowl: <>; car: <>; person: < person89, person141, person113, person143, person128, person144>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; cow: <>; person: < person89, person128, person143, person144, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bench: <>; bowl: <>; car: <>; person: < person89, person128, person144, person143, person113>; potted_plant: < potted_plant13, potted_plant100>; stop_sign: <>
+ bench: <>; bowl: <>; car: <>; person: < person89, person128, person143, person113>; potted_plant: < potted_plant13, potted_plant100>; stop_sign: <>
+ bench: <>; bowl: <>; car: <>; person: < person89, person143, person113, person144, person128>; potted_plant: < potted_plant13, potted_plant100>; stop_sign: <>
+ bench: <>; bowl: <>; car: <>; person: < person89, person143, person113, person128>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person128, person143, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; person: < person128, person89, person143, person113, person141>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person143, person89, person128, person113, person141>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person89, person144, person143, person141, person128, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person128, person89, person144, person143, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person144, person89, person143, person128, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person143, person89, person144, person128, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person89, person143, person141, person144, person128>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person89, person128, person144, person141, person143>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: <>; person: < person89, person143, person141, person128, person144>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person89, person144, person143, person128, person141>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person144, person89, person143, person141, person128>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person143, person89, person144, person128, person141>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person128, person143, person144, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person143, person128, person144, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person143, person128, person144, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car155, car115>; person: < person89, person143, person128, person144, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car155, car115>; person: < person89, person143, person113, person144, person128, person141>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car115>; cow: <>; person: < person89, person128, person143, person144>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person143, person144, person128, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person143, person144, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person144, person143, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; cow: <>; person: < person89, person143, person144, person141>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person141, person144, person143>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person141, person144, person143>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person143, person144, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: <>; person: < person89, person143, person141, person144, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person143, person141, person144, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person143, person89, person141, person144, person128, person113>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person89, person128, person143, person144, person141, person113>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person143, person128, person113, person141, person144>; potted_plant: < potted_plant13, potted_plant100>
+ bowl: <>; car: < car115>; person: < person143, person113, person141, person128, person159, person144, person89>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person143, person89, person159, person128, person113, person141, person144>; potted_plant: < potted_plant13, potted_plant100>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person144, person143, person113, person128>; potted_plant: < potted_plant13>; truck: <>
+ bowl: <>; car: < car115>; person: < person89, person144, person143, person113>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car115>; person: < person143, person89, person144, person113>; potted_plant: <>; truck: < truck160>
+ bowl: <>; car: <>; person: < person89, person143, person144, person113>; potted_plant: <>; truck: < truck160>
+ bowl: <>; car: <>; person: < person89, person143, person113, person144>; potted_plant: <>; truck: <>; umbrella: <>
+ bowl: <>; car: <>; person: < person89, person143, person144, person128>; potted_plant: <>; truck: <>; umbrella: <>
+ bowl: <>; car: <>; person: < person143, person89, person159, person128>; potted_plant: <>; truck: <>; umbrella: <>
+ bowl: < bowl13>; car: <>; person: < person143, person159, person128>; potted_plant: <>; truck: <>; umbrella: <>
+ bowl: < bowl13>; car: <>; person: < person143, person89, person159, person141>; potted_plant: <>; truck: < truck160>; umbrella: <>
+ bowl: < bowl13>; car: <>; person: < person89, person159, person141, person143>; potted_plant: <>; truck: < truck160>; umbrella: <>
+ bowl: < bowl13>; car: <>; person: < person159, person143, person128, person141>; potted_plant: <>; truck: < truck160>; umbrella: <>
+ bowl: < bowl13>; car: <>; person: < person143, person159, person128, person141>; potted_plant: <>; truck: < truck160>
+ bowl: < bowl13>; car: <>; person: < person89, person143, person159, person141>; potted_plant: <>; truck: < truck160>
+ bowl: < bowl13>; car: <>; person: < person89, person143, person159, person141>; potted_plant: < potted_plant166>; truck: < truck160>
+ bowl: < bowl13>; car: <>; person: < person143, person89, person159>; potted_plant: < potted_plant166>; truck: < truck160>
+ bowl: < bowl13>; car: <>; person: < person143, person89, person159, person128>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143, person89, person128>; potted_plant: < potted_plant166, potted_plant100>; truck: <>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143, person89, person128>; potted_plant: < potted_plant166, potted_plant100>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143, person89, person128>; potted_plant: < potted_plant166, potted_plant100>; truck: <>
+ bowl: < bowl13>; car: < car115>; person: < person143, person159, person89, person128>; potted_plant: < potted_plant166, potted_plant100>; truck: <>
+ bowl: < bowl13>; car: <>; person: < person143, person128, person89, person159>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: <>; fire_hydrant: <>; person: < person143, person89, person159, person128>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: <>; person: < person143, person89, person128, person159>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: <>; person: < person143, person89, person128, person159>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: < fire_hydrant141>; person: < person143, person89, person159, person128>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: < fire_hydrant141>; person: < person143, person89, person159, person113>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: < fire_hydrant141>; person: < person89, person143, person113, person159>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: < fire_hydrant141>; person: < person143, person89, person128, person159, person113>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: <>; person: < person89, person143, person128, person113, person159, person141>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: <>; person: < person159, person143, person89, person141, person128, person113>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; fire_hydrant: < fire_hydrant141>; person: < person159, person89, person143, person128, person113>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: <>; person: < person159, person143, person89, person128>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; fire_hydrant: <>; person: < person159, person89, person143, person128>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143, person128>; potted_plant: < potted_plant166>; traffic_light: <>; truck: <>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>; traffic_light: <>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: <>; person: < person159, person143>; potted_plant: < potted_plant166>; traffic_light: <>; truck: <>
+ bowl: < bowl13>; car: <>; person: < person159, person170, person143>; potted_plant: < potted_plant166>; traffic_light: <>; truck: <>
+ bottle: <>; bowl: < bowl13>; car: < car115>; person: < person159, person143, person170>; potted_plant: < potted_plant166>; traffic_light: <>; truck: <>
+ bottle: <>; bowl: < bowl13>; car: < car115>; cow: <>; person: < person159, person170, person143>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: <>; person: < person159, person143, person170>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: <>; cow: <>; person: < person159, person143, person170>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>; truck: <>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person141, person159>; potted_plant: < potted_plant166>; truck: <>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person159, person141>; potted_plant: < potted_plant166>; truck: <>
+ bench: <>; bowl: < bowl13>; car: < car115>; cow: <>; person: < person159, person143, person141>; potted_plant: < potted_plant166>; truck: <>
+ bench: <>; bottle: <>; bowl: < bowl13>; car: < car115>; cow: <>; person: < person159, person143, person141>; potted_plant: < potted_plant166>; truck: <>
+ bench: <>; bowl: < bowl13>; car: < car115>; fire_hydrant: <>; person: < person159, person141, person143>; potted_plant: < potted_plant166>; truck: <>
+ bench: <>; bowl: < bowl13>; car: < car115>; fire_hydrant: <>; person: < person159, person143>; potted_plant: < potted_plant166>; truck: <>
+ bench: <>; bowl: < bowl13>; car: < car115>; fire_hydrant: < fire_hydrant141>; person: < person159, person143>; potted_plant: < potted_plant166>; truck: <>
+ bench: <>; bowl: < bowl13>; car: < car115>; fire_hydrant: < fire_hydrant141>; person: < person159, person143>; potted_plant: < potted_plant166>; truck: <>
+ bench: <>; bowl: < bowl13>; car: < car115>; fire_hydrant: < fire_hydrant141>; person: < person159, person143, person172>; potted_plant: < potted_plant166>; truck: <>
+ bench: <>; bowl: <>; car: < car115>; fire_hydrant: < fire_hydrant141>; person: < person159, person173, person143, person172>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; person: < person143, person159, person141, person172, person173>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: <>; cow: <>; fire_hydrant: < fire_hydrant141>; person: < person159, person143, person172, person173>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: <>; cow: <>; person: < person159, person172, person143, person173>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: <>; cow: <>; fire_hydrant: <>; person: < person159, person172, person143, person173>; potted_plant: < potted_plant166>; truck: <>
+ bowl: < bowl13>; car: < car115>; fire_hydrant: <>; person: < person159, person143, person172, person173>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143, person172, person173>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; cow: <>; person: < person159, person143, person172, person173>; potted_plant: < potted_plant166>; traffic_light: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; fire_hydrant: <>; person: < person159, person143, person172, person173>; potted_plant: < potted_plant166>; traffic_light: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; person: < person159, person143, person141, person172, person173>; potted_plant: < potted_plant166>
+ bottle: <>; bowl: < bowl13>; car: < car115>; cow: <>; person: < person143, person141, person172, person159, person173>; potted_plant: < potted_plant166>
+ bottle: <>; bowl: < bowl13>; car: < car115>; cow: <>; person: < person143, person172, person159, person141, person173>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; cow: <>; person: < person143, person141, person172, person173, person159>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; person: < person143, person172, person173, person159, person141>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; person: < person143, person159, person173, person172, person141>; potted_plant: < potted_plant166>
+ bench: <>; bowl: < bowl13>; car: < car115>; person: < person143, person159, person141, person173, person172>; potted_plant: < potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person143, person159, person141, person172, person173>; potted_plant: < potted_plant166>
+ bench: <>; bowl: < bowl13>; car: < car115>; person: < person143, person159, person141, person173, person172, person170>; potted_plant: < potted_plant166>
+ bench: <>; bowl: < bowl13>; car: < car115>; person: < person143, person159, person141, person172, person170, person173>; potted_plant: < potted_plant166>
+ bench: <>; bowl: < bowl13>; car: < car115>; person: < person159, person143, person173, person172, person141, person170>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; person: < person159, person141, person143, person172, person173, person170>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143, person173, person172, person141, person170>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; person: < person159, person143, person173, person172, person141>; potted_plant: < potted_plant166>
+ bowl: < bowl13>; car: < car115>; person: < person159, person173, person143, person172, person141>; potted_plant: <>
+ bowl: < bowl13>; car: < car115>; person: < person159, person141, person143, person172, person173>; potted_plant: <>
+ bowl: < bowl13>; car: < car115>; person: < person159, person141, person143, person172, person173>; potted_plant: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; person: < person159, person143, person141, person173, person172>; potted_plant: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; person: < person143, person141, person159, person172, person173>; potted_plant: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; person: < person141, person143, person159, person173, person172>; potted_plant: <>
+ bowl: < bowl13>; car: < car115>; cow: <>; person: < person141, person159, person172, person143, person173>; potted_plant: <>
+ bowl: < bowl13>; car: < car115>; person: < person141, person159, person173, person143, person172>; potted_plant: <>
+ bowl: < bowl13>; car: < car115>; person: < person141, person173, person159, person172, person143>; potted_plant: <>
+ bowl: <>; car: <>; person: < person141, person143, person173, person172, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; cow: <>; person: < person141, person143, person173, person172, person159, person179>; potted_plant: < potted_plant180, potted_plant166>
+ bowl: <>; car: < car115>; person: < person172, person143, person173, person141, person159, person179>; potted_plant: < potted_plant181, potted_plant180, potted_plant166>
+ bowl: <>; car: < car115>; person: < person141, person159, person143, person172, person173, person179>; potted_plant: < potted_plant180, potted_plant181, potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person141, person172, person143, person173, person179>; potted_plant: < potted_plant181, potted_plant180>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person159, person141, person172, person173, person179>; potted_plant: < potted_plant180, potted_plant181>
+ bowl: <>; car: < car115>; cow: <>; person: < person159, person141, person173, person179, person172, person143>; potted_plant: < potted_plant166, potted_plant181>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person141, person172, person159, person179, person173>; potted_plant: < potted_plant166, potted_plant181>
+ bowl: <>; car: < car115>; person: < person141, person172, person159, person143, person173, person179>; potted_plant: < potted_plant166, potted_plant181>
+ bowl: <>; car: < car115>; cow: <>; person: < person141, person172, person159, person143, person179>; potted_plant: < potted_plant166, potted_plant181>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person159, person172, person179, person141>; potted_plant: < potted_plant166, potted_plant181>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person159, person141, person172>; potted_plant: < potted_plant181>
+ bowl: <>; car: < car115>; cow: <>; person: < person172, person143, person159, person179>; potted_plant: < potted_plant166, potted_plant181>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person172, person141, person159, person179>; potted_plant: < potted_plant166, potted_plant181>
+ bowl: <>; car: < car115>; person: < person159, person143, person172, person141, person179>; potted_plant: < potted_plant166, potted_plant181>
+ bowl: <>; car: < car115>; person: < person159, person143, person172, person141, person179>; potted_plant: < potted_plant166, potted_plant181>; truck: <>
+ bowl: <>; car: < car115>; person: < person141, person172, person143, person159>; potted_plant: < potted_plant181>; truck: <>
+ bowl: <>; car: < car115>; cow: <>; person: < person141, person172, person143, person159>; potted_plant: < potted_plant181>
+ bowl: <>; car: < car115>; cow: <>; person: < person141, person143, person159, person172>; potted_plant: < potted_plant181>
+ bench: <>; bowl: <>; car: < car115>; cow: <>; person: < person141, person143, person172, person159>; potted_plant: < potted_plant181>
+ bowl: <>; car: < car115>; person: < person141, person143, person172, person159>; potted_plant: < potted_plant181>
+ bench: <>; bowl: <>; car: < car115>; person: < person141, person143, person182, person172, person159>; potted_plant: < potted_plant181, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person141, person143, person159, person182, person172>; potted_plant: < potted_plant181, potted_plant166>; truck: <>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person141, person143, person172, person182>; potted_plant: < potted_plant181, potted_plant166>; truck: <>
+ bench: <>; bowl: <>; car: < car115>; person: < person143, person172, person182, person141, person159>; potted_plant: < potted_plant181, potted_plant166>; truck: <>
+ bowl: <>; car: < car115>; person: < person159, person143, person141, person182, person172>; potted_plant: < potted_plant166, potted_plant181>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143, person141, person172, person182>; potted_plant: < potted_plant166, potted_plant181>; truck: <>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143, person141, person172, person182>; potted_plant: < potted_plant181, potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143, person172, person182, person141>; potted_plant: < potted_plant181, potted_plant180>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143, person172, person141, person182>; potted_plant: < potted_plant181, potted_plant180>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143, person141, person172>; potted_plant: < potted_plant181>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143, person141, person172>; potted_plant: < potted_plant181>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143, person141, person172>; potted_plant: < potted_plant181>
+ bowl: <>; car: < car115>; person: < person159, person141, person143, person172>; potted_plant: < potted_plant181>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143, person141>; potted_plant: < potted_plant181>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant180>
+ bowl: <>; car: < car115>; person: < person143>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant181, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person143, person172>; potted_plant: < potted_plant181, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143, person172>; potted_plant: < potted_plant181, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant181, potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166, potted_plant180>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant191>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant191, potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166, potted_plant180>; skateboard: <>; truck: <>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>; truck: <>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>; truck: <>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>; truck: <>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159>; potted_plant: < potted_plant166>; skateboard: <>
+ bowl: <>; car: < car115>; person: < person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143, person192>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person143, person192>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person192, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person159, person192, person143>; potted_plant: < potted_plant166>
+ bottle: <>; bowl: <>; car: < car115>; person: < person159, person192>; potted_plant: < potted_plant166>
+ bottle: <>; bowl: <>; car: < car115>; person: < person159, person192>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: <>; person: < person159>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: <>; person: < person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person194, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person159, person143, person194>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person159, person194>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person143, person159>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person194>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: <>; person: < person143, person194, person192>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person192>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person192, person143>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person194, person192>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person194>; potted_plant: < potted_plant166>; skateboard: <>
+ bowl: <>; car: < car115>; person: < person143, person194>; potted_plant: < potted_plant166>; skateboard: <>
+ bowl: <>; car: < car115>; person: < person143, person194>; potted_plant: < potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person143>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person159, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; cow: <>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; cow: <>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; cow: <>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; cow: <>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; cow: <>; person: < person194, person143>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person194, person143>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person200, person194, person143>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person200, person194, person159>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; cow: <>; person: < person200, person143, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person200, person143, person194, person203>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person200, person143, person194, person203>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person143, person200, person194, person203>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person200, person143>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person143, person200, person203>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person143, person200, person194, person203>; potted_plant: < potted_plant198, potted_plant166>; skateboard: <>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>; skateboard: <>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person194>; potted_plant: < potted_plant166, potted_plant198>; skateboard: <>
+ bowl: <>; car: < car115>; person: < person143, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; cow: <>; person: < person143, person200, person194, person203>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; cow: <>; person: < person143, person194, person203>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; cow: <>; person: < person143, person194, person203>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; cow: <>; person: < person200, person143, person194, person203>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; cow: <>; person: < person200, person194, person143>; potted_plant: < potted_plant198, potted_plant166>; skateboard: <>
+ bowl: <>; car: < car115>; person: < person200, person194, person203>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person143, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant166, potted_plant198>; skateboard: <>
+ bowl: <>; car: <>; cow: <>; person: < person143, person194, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; cow: <>; person: < person143, person200, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; cow: <>; person: < person143, person200, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person143, person200, person194>; potted_plant: < potted_plant198, potted_plant166>; skateboard: <>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant198, potted_plant166>; skateboard: <>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant198, potted_plant166>; skateboard: <>
+ bowl: <>; car: <>; person: < person143, person207, person203, person200>; potted_plant: < potted_plant198, potted_plant166>; skateboard: <>
+ bowl: <>; car: <>; person: < person143, person200, person207, person203>; potted_plant: < potted_plant198, potted_plant166>
+ bicycle: <>; bowl: <>; car: <>; person: < person143, person203, person200, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person143, person200, person203>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143, person200, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; cow: <>; person: < person143, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant166, potted_plant198>; skateboard: <>
+ bowl: <>; car: <>; person: < person143, person200, person203>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143, person200>; potted_plant: < potted_plant166, potted_plant198>; skateboard: <>
+ bowl: <>; car: <>; person: < person143, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143, person200, person203>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person200, person194, person203, person143>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person143, person203, person200, person211, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person143, person194, person200, person203, person211>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person143, person194, person200>; potted_plant: < potted_plant166, potted_plant198>; skateboard: <>
+ bowl: <>; car: < car115>; person: < person143, person194, person200>; potted_plant: < potted_plant166, potted_plant198>; skateboard: <>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143, person194, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person143, person200, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person200, person143, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person200, person194, person143>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person200, person194, person143>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person200, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person200>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person200, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person200, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person200, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bicycle: < bicycle203>; bowl: <>; car: <>; person: < person194, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bicycle: < bicycle203>; bowl: <>; car: < car115>; person: < person200, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person194, person200>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person200, person219, person194, person217>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person200, person217, person194, person219>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person200, person194, person217, person219>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person219, person200, person220, person194, person217>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person219, person194, person200, person220, person217>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person194, person219, person200, person220, person217>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person219, person200, person194, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person194, person200, person219, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person219, person194, person200, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person219, person194, person200, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person194, person219, person200, person222, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person194, person219, person200, person222, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person200, person194, person222, person221, person219>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person194, person200, person222, person223, person221, person219>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person219, person200, person223, person222, person194, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person219, person200, person194, person222, person223, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person219, person194, person200, person222, person223, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person219, person194, person200, person221, person222, person223>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person219, person194, person200, person222, person223, person217, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person219, person194, person200, person223, person221, person222, person217>; potted_plant: < potted_plant166, potted_plant198>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person200, person194, person223, person217>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person219, person200, person194, person223, person217>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; person: < person194, person219, person200, person223>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person219, person200, person194, person223>; potted_plant: < potted_plant198, potted_plant166>
+ bicycle: <>; bowl: <>; car: < car115>; person: < person219, person194, person200, person223>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person219, person194, person200, person223, person217>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person200, person219, person223, person217>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person219, person200, person223, person217, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person219, person200, person223, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person200, person219, person223>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person219, person200>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person200, person220, person219>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person219, person220, person200, person221>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person224, person194, person219, person220, person200, person221>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person219, person220, person224, person200, person223, person221>; potted_plant: < potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person194, person219, person224, person220, person223, person200>; potted_plant: < potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person219, person220, person194, person223, person224, person200, person221>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person224, person220, person200, person223, person194, person221>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person220, person200, person223, person194>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person219, person220, person200, person224, person223>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person220, person224, person194, person200, person223>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person194, person220, person200, person224, person223>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person224, person219, person200, person220, person194, person223>; potted_plant: < potted_plant166>
+ bench: <>; car: < car115>; person: < person224, person194, person219, person220, person200, person223, person221>; potted_plant: < potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person224, person200, person220, person194, person223, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person200, person220, person223, person194, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person200, person220, person223, person228, person219, person227, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person194, person200, person224, person220, person227, person228, person223, person221>; potted_plant: < potted_plant166, potted_plant198>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person200, person194, person227, person220, person223, person224, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person200, person219, person224, person220, person227, person223, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person194, person200, person224, person220, person227, person223>; potted_plant: < potted_plant166, potted_plant198>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person194, person200, person224, person220, person227, person223>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: <>; person: < person219, person194, person200, person224, person220, person223, person227>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person219, person194, person224, person220, person200, person223, person221, person227>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person219, person194, person224, person200, person220, person223, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person194, person224, person220, person219, person200, person223, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person219, person224, person194, person200, person220, person223, person221>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bicycle: <>; bowl: <>; car: < car115>; person: < person219, person224, person194, person223, person200, person220>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person224, person194, person223, person200, person220>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person219, person194, person224, person223, person220, person200>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person219, person223, person200, person220, person224>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person200, person223, person220, person224, person219>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person194, person200, person224, person223, person219, person220>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person200, person223, person220, person219, person224>; potted_plant: < potted_plant198, potted_plant166>
+ bench: <>; bowl: <>; car: < car115>; person: < person200, person194, person219, person223, person224>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person194, person200, person223, person219, person220, person224>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person200, person194, person223, person219, person220, person224>; potted_plant: < potted_plant198>
+ bowl: <>; car: < car115>; person: < person223, person200, person194, person219, person224>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person223, person200, person224, person194, person219>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; person: < person200, person223, person224, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person200, person223, person224, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person224, person200, person223, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person223, person200, person194, person224>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; person: < person224, person200, person223, person194, person234>; potted_plant: < potted_plant198, potted_plant166>
+ bicycle: <>; bowl: <>; car: < car115>; person: < person200, person223, person224, person194, person234>; potted_plant: < potted_plant198, potted_plant166>
+ bicycle: <>; bowl: <>; car: <>; kite: <>; person: < person200, person223, person224, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: <>; person: < person219, person200, person223, person224, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person223, person219, person194, person224, person200>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person200, person223, person219, person194, person224>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person224, person200, person223, person219, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person224, person200, person223, person219, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person200, person224, person219, person194, person223>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person224, person200, person219, person223, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person224, person219, person223, person200, person194, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person219, person223, person194, person224, person200, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person219, person224, person194, person223, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person219, person224, person194, person242, person239, person223>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; kite: <>; person: < person194, person219, person224, person242, person239, person223>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; kite: <>; person: < person194, person224, person223, person219>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person194, person223, person219, person224, person220>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; kite: <>; person: < person194, person223, person224, person220, person219>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person224, person194, person223, person219, person243, person239, person220, person242>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: <>; person: < person224, person219, person223, person242, person194, person239, person243, person220>; potted_plant: < potted_plant198>
+ bowl: <>; car: < car115>; kite: <>; person: < person224, person219, person223, person239, person194, person242, person243, person241, person220>; potted_plant: < potted_plant198>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person224, person219, person223, person242, person239, person243, person194, person220>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person224, person219, person223, person242, person243, person239, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person224, person219, person223, person242, person243, person194, person220, person239>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person224, person223, person219, person220, person194, person242, person243, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person224, person247, person219, person223, person242, person243, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person247, person224, person219, person223, person242, person220, person243, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person224, person247, person223, person242, person220, person219, person243, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: < car115>; kite: < kite241>; person: < person219, person223, person224, person220, person247, person239, person243, person242>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: < kite241>; person: < person223, person224, person239, person242, person220, person219, person247>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: < kite241>; person: < person239, person223, person224, person219, person247, person242>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: < kite241>; person: < person247, person223, person219, person239, person224, person242>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person247, person223, person239, person224, person242, person219, person243, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; kite: <>; person: < person219, person223, person239, person247, person224, person243, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: < kite241>; person: < person219, person224, person223, person239, person247, person243>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: < kite241>; person: < person224, person219, person223, person239, person194, person247>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; kite: < kite241>; person: < person224, person219, person223, person239, person247, person194, person243>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; kite: < kite241>; person: < person224, person223, person219, person239, person247, person243, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; kite: < kite241>; person: < person224, person223, person219, person239, person247, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; kite: < kite241>; person: < person224, person223, person219, person239, person247, person194>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; kite: < kite241>; person: < person219, person223, person224, person247, person194, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: <>; person: < person219, person223, person224, person247, person239, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; person: < person223, person219, person247, person224, person239, person194>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: <>; person: < person219, person223, person224, person194, person247, person251, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: < kite241>; person: < person224, person219, person247, person194, person223, person239, person251>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: < kite241>; person: < person194, person224, person251, person219, person247, person223, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: < kite241>; person: < person194, person224, person251, person219, person247, person223, person239>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: <>; car: <>; kite: <>; person: < person224, person251, person247, person219, person194, person223, person220, person239, person241>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; person: < person224, person247, person223, person220, person194, person251, person219, person241>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; person: < person224, person247, person251, person223, person219, person194, person220, person239, person241>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; person: < person247, person251, person223, person219, person224, person220, person239, person241>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; person: < person251, person247, person223, person241, person224, person239, person219>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; kite: <>; person: < person251, person247, person223, person219, person224, person241>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; kite: < kite241>; person: < person251, person194, person223, person247, person219, person224>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; kite: <>; person: < person194, person223, person251, person224, person219, person247, person241>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; kite: < kite241>; person: < person194, person223, person251, person224, person219, person247>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; kite: < kite241>; person: < person194, person223, person251, person224, person247, person219>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; kite: < kite241>; person: < person194, person223, person251, person224, person247, person219>; potted_plant: < potted_plant198, potted_plant166>
+ bowl: < bowl254>; car: <>; kite: <>; person: < person223, person194, person251, person224, person247, person219, person241, person258>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; person: < person223, person251, person224, person241, person247, person194, person219, person258, person239>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; person: < person251, person223, person224, person247, person241, person239>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; person: < person251, person223, person224, person247, person241, person258, person239>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; person: < person251, person223, person224, person247, person241, person258>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; person: < person251, person241, person224, person223, person247, person258>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; kite: <>; person: < person251, person224, person223, person247, person258, person241>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; person: < person251, person223, person224, person241, person247>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; person: < person223, person251, person224, person241, person247>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; kite: <>; person: < person223, person251, person224, person247, person239, person241>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; person: < person223, person251, person241, person224, person247, person220, person239>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; kite: <>; person: < person223, person251, person224, person247, person220, person239, person241>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; kite: <>; person: < person223, person251, person224, person241, person239, person220, person247>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; person: < person251, person223, person224, person247, person239, person241>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; person: < person223, person241, person251, person247, person239>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; car: <>; person: < person241, person223, person251, person247, person239>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; person: < person241, person223, person251, person239, person247>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: < bowl254>; person: < person223, person251, person241, person247, person194, person224>; potted_plant: < potted_plant166, potted_plant198>
+ bowl: <>; car: <>; kite: <>; person: < person223, person251, person247, person224, person241>; potted_plant: < potted_plant198, potted_plant166>

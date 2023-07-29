@@ -1,0 +1,1405 @@
+
+
+ book: <>; bus: <>; car: < car1, car2, car5, car6>; dining_table: <>; train: <>; truck: <>
+ bus: <>; car: < car2, car5, car3, car6, car4>; dining_table: <>; train: <>; truck: <>
+ bench: <>; book: <>; bus: <>; car: < car5, car4, car6, car2>; dining_table: <>; train: <>; truck: <>
+ bench: <>; bus: <>; car: < car5, car3, car2, car6>; chair: <>; dining_table: <>; potted_plant: <>; train: <>; truck: <>
+ book: <>; bus: <>; car: < car6, car4, car2>; chair: <>; couch: <>; potted_plant: <>; train: <>; truck: <>
+ book: <>; bus: <>; car: < car2, car4, car3, car6>; chair: <>; dining_table: <>; potted_plant: <>; train: <>; truck: <>
+ bus: < bus12>; car: < car3, car2, car6>; chair: <>; couch: <>; potted_plant: <>; truck: <>
+ book: <>; bus: <>; car: < car2, car6, car3, car14>; couch: <>; potted_plant: <>; train: <>; truck: < truck12>
+ bus: <>; car: < car2, car3, car6, car7>; couch: <>; potted_plant: <>; train: < train12>; truck: <>
+ bus: <>; car: < car3, car2, car6>; potted_plant: <>; truck: <>
+ bus: <>; car: < car6, car3, car2>; potted_plant: <>; truck: <>
+ bus: <>; car: < car2, car6, car14>; potted_plant: <>; truck: <>
+ bus: <>; car: < car2, car3, car1, car6>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car2>; kite: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car3, car2, car6>; truck: <>
+ bus: <>; car: < car6, car2>; potted_plant: <>; truck: < truck14>
+ bus: <>; car: < car1, car3, car6, car2>; potted_plant: <>; truck: < truck7>
+ car: < car1, car3, car6, car2, car14>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car6, car2>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car6, car2>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car2, car14, car6>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: < bus12>; car: < car1, car2, car6>; dining_table: <>; person: <>; potted_plant: <>; truck: < truck7>
+ bus: <>; car: < car6, car12, car2>; dining_table: <>; potted_plant: <>; train: <>; truck: <>
+ bus: < bus12>; car: < car1, car14, car2>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car2, car7>; dining_table: <>; potted_plant: <>; truck: < truck12>
+ bus: <>; car: < car2, car1>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: < bus12>; car: < car1, car6, car2, car14>; dining_table: <>; potted_plant: <>; truck: <>
+ bowl: <>; bus: < bus12>; car: < car1, car2>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car6, car2, car14>; dining_table: <>; potted_plant: <>; truck: < truck7, truck12>
+ bus: <>; car: < car1, car14, car7, car2>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: < bus7>; car: < car1, car2>; dining_table: <>; person: <>; truck: < truck14>
+ bus: <>; car: < car1, car6>; cell_phone: <>; dining_table: <>; truck: < truck14>
+ bus: <>; car: < car1, car6, car16>; dining_table: <>; potted_plant: <>; truck: < truck14>
+ bus: <>; car: < car1, car14, car16>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car16, car7>; couch: <>; potted_plant: <>; truck: < truck14>
+ bus: <>; car: < car1, car14, car7, car16>; truck: <>
+ bus: <>; car: < car7, car16, car1, car19>; couch: <>; dining_table: <>; potted_plant: < potted_plant13>; truck: <>
+ bus: <>; car: < car16, car14>; couch: <>; dining_table: <>; person: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car16>; couch: <>; person: <>; potted_plant: <>; truck: < truck14>
+ bus: <>; car: < car1, car16>; dining_table: <>; potted_plant: <>; truck: < truck14>
+ bus: <>; car: < car14, car1, car16, car19>; cell_phone: <>; chair: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car14>; cell_phone: <>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car1, car19, car16>; mouse: <>; potted_plant: <>; truck: < truck14>
+ car: < car19, car1, car16, car32, car14>; mouse: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car19, car14>; potted_plant: < potted_plant13>; toilet: <>; truck: < truck16>
+ bus: <>; car: < car19, car16, car7>; dining_table: <>; potted_plant: <>; toilet: <>; truck: <>
+ bus: <>; car: < car14, car19>; couch: <>; person: <>; potted_plant: < potted_plant13>; truck: < truck16>
+ bus: <>; car: < car19, car14, car16>; potted_plant: <>; truck: <>
+ car: < car19, car1, car14>; potted_plant: <>; truck: <>
+ car: < car19, car1, car14>; potted_plant: <>
+ car: < car1, car19, car14>; couch: <>; potted_plant: <>; truck: <>
+ car: < car1, car19>; couch: <>; potted_plant: <>; truck: < truck16, truck14>
+ car: < car19, car1, car14>; couch: <>; potted_plant: <>; truck: < truck16>
+ car: < car19, car1, car16, car14>; potted_plant: <>; truck: <>
+ car: < car1, car16, car14, car19>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car19, car1, car14>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car19, car1, car25, car14, car40>; dining_table: <>; potted_plant: <>
+ car: < car14, car1, car25, car40>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car14, car19, car1, car16>; dining_table: <>; potted_plant: <>
+ car: < car19, car1, car25, car16>; dining_table: <>; potted_plant: <>; truck: < truck14>
+ car: < car1, car25, car14, car19>; dining_table: <>; potted_plant: <>; truck: < truck16>
+ car: < car19, car1, car16, car14>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car19, car25, car14>; dining_table: <>; potted_plant: <>; truck: < truck16>
+ car: < car19, car25, car16, car21>; couch: <>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car1, car16, car19>; dining_table: <>; potted_plant: <>; truck: <>
+ boat: <>; car: < car1, car16, car25, car19>; dining_table: <>; truck: <>
+ boat: <>; car: < car19, car1, car25>; dining_table: <>; potted_plant: <>; truck: < truck16>
+ boat: <>; car: < car19, car25, car1>; dining_table: <>; truck: < truck16>
+ boat: <>; car: < car25, car1, car19, car16>; dining_table: < dining_table44>; truck: <>
+ bird: <>; boat: <>; car: < car19, car1, car16>; dining_table: <>
+ boat: <>; car: < car19, car1, car16>; dining_table: <>; truck: <>
+ boat: <>; car: < car1, car25, car19>; dining_table: <>; truck: < truck16>
+ bus: <>; car: < car1, car25, car19, car16>; truck: <>
+ boat: <>; car: < car1, car25, car19>; truck: < truck16>
+ car: < car19, car1, car16>; dining_table: <>; truck: <>
+ car: < car19, car25, car1>; couch: <>; truck: < truck16>
+ car: < car19, car1, car16>; cat: <>; dining_table: <>; dog: <>; frisbee: <>; truck: <>
+ bird: <>; car: < car19, car1, car16>; cat: <>; dining_table: <>; dog: <>; frisbee: <>; truck: <>
+ car: < car1, car16, car19>; dog: <>; person: <>; truck: <>
+ car: < car55, car19, car16>; dining_table: <>; dog: <>
+ car: < car19, car38, car16>; cat: <>; dining_table: < dining_table44>; potted_plant: <>; truck: <>
+ car: < car19, car38, car16>; dining_table: <>
+ car: < car58, car16, car19>; dining_table: <>; potted_plant: <>
+ car: < car25, car58, car19, car16>; dining_table: <>
+ book: <>; car: < car19, car38, car16>; dining_table: <>; truck: <>
+ car: < car19, car38, car16>; dining_table: <>; person: <>
+ car: < car60, car38, car19, car16>; dining_table: <>; person: <>
+ car: < car19, car38, car16>; dining_table: <>; truck: <>
+ car: < car38, car60, car19, car16>; dining_table: <>
+ car: < car19, car60, car16>; dining_table: <>
+ car: < car19, car38, car60>; dining_table: <>; potted_plant: <>; truck: < truck16>
+ car: < car38, car19, car16>; potted_plant: <>; truck: <>
+ car: < car38, car19, car16>; potted_plant: <>
+ car: < car38, car19, car16, car60>; couch: <>; potted_plant: <>
+ car: < car38, car19>; potted_plant: <>; truck: < truck16>
+ car: < car38, car60, car16, car19>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car38, car49, car19, car60>; potted_plant: <>; truck: < truck16>
+ car: < car38, car60, car19, car16>; dining_table: <>; potted_plant: <>
+ car: < car38, car19, car16>; potted_plant: <>
+ car: < car19, car38>; potted_plant: <>; truck: <>
+ car: < car49, car60, car38, car19>; potted_plant: <>
+ bird: <>; car: < car49, car60, car38, car59, car19>; potted_plant: <>
+ car: < car49, car38, car60, car19>; potted_plant: <>
+ car: < car38, car60, car19, car49>; potted_plant: <>
+ car: < car49, car38, car19>; potted_plant: <>
+ car: < car19, car38, car60, car49>; motorcycle: <>; potted_plant: <>
+ car: < car19, car38, car60, car49, car59>; dining_table: <>; potted_plant: <>
+ car: < car49, car19>; truck: <>
+ car: < car49, car59, car19>; dining_table: <>; potted_plant: <>
+ car: < car49, car19>; dining_table: <>; truck: <>
+ car: < car49, car19>; potted_plant: <>; truck: <>
+ car: < car59, car49, car63, car19>; potted_plant: <>; truck: <>
+ car: < car38, car19>; truck: <>
+ car: < car38, car19>; potted_plant: <>; truck: <>
+ car: < car19, car58>; potted_plant: <>; truck: <>
+ car: < car49, car19, car63>; potted_plant: <>; truck: <>
+ car: < car19, car49, car38>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car49, car19, car59>; potted_plant: <>; truck: <>
+ car: < car49, car19, car38>; potted_plant: <>; truck: <>
+ car: < car49, car38>; potted_plant: <>; truck: <>
+ car: < car49, car58, car38>; potted_plant: <>; truck: <>
+ car: < car49, car38>; truck: <>
+ car: < car49, car38>; potted_plant: <>; truck: <>
+ car: < car49, car63>; potted_plant: <>; truck: <>
+ car: < car49, car38>; dining_table: <>; potted_plant: <>
+ car: < car49, car38>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car49, car38>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car38, car49>; dining_table: <>; mouse: <>; potted_plant: <>; truck: <>
+ car: < car49, car38>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car49, car38>; dining_table: <>; mouse: <>; person: <>; potted_plant: <>; truck: <>
+ car: < car49, car38>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car38, car49>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car49, car63>; potted_plant: <>; truck: <>
+ car: < car63, car49>; potted_plant: <>; truck: <>
+ car: < car49, car63>; potted_plant: <>; truck: <>
+ car: < car49, car63, car67, car64>; couch: <>; potted_plant: <>; truck: <>
+ car: < car49, car63>; potted_plant: <>; truck: <>
+ car: < car49, car63>; potted_plant: <>; truck: < truck64>
+ car: < car49, car63, car58>; potted_plant: <>; truck: <>
+ car: < car49, car79, car67, car77>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car72, car49, car67>; dining_table: <>; potted_plant: <>; truck: < truck64>
+ car: < car49, car67>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car49, car67>; potted_plant: <>; truck: <>
+ car: < car72, car67, car49>; potted_plant: <>; truck: <>
+ car: < car49, car72, car67>; potted_plant: <>; truck: <>
+ car: < car49, car72, car67>; potted_plant: <>; truck: <>
+ car: < car49, car67, car72>; potted_plant: <>; truck: <>
+ car: < car67, car49, car72>; potted_plant: <>; truck: <>
+ car: < car49, car67, car72>; potted_plant: <>; truck: <>
+ car: < car72, car49, car67>; potted_plant: <>; truck: <>
+ car: < car72, car67, car49, car71>; kite: <>; potted_plant: <>; truck: <>
+ car: < car49, car67, car71, car72>; potted_plant: <>; truck: <>
+ car: < car72, car67, car49, car71>; couch: <>; potted_plant: <>; truck: <>
+ car: < car71, car72, car49, car67>; couch: <>; potted_plant: <>; truck: <>
+ car: < car49, car71, car72>; couch: <>; potted_plant: <>; truck: <>
+ bench: <>; car: < car49, car72, car94>; potted_plant: <>; truck: <>
+ car: < car72, car49, car71, car88>; couch: <>; potted_plant: <>
+ car: < car49, car71, car72>; couch: <>; potted_plant: <>
+ car: < car67, car91, car49, car71, car72>; couch: <>; potted_plant: <>
+ car: < car72, car67, car49, car71>; potted_plant: <>
+ car: < car72, car49, car71>; potted_plant: <>
+ car: < car72, car91, car71, car49>; potted_plant: <>
+ car: < car91, car67, car49, car71, car72, car75>; motorcycle: <>; potted_plant: < potted_plant73>
+ car: < car72, car67, car49, car71, car75>; potted_plant: <>
+ car: < car67, car91, car49, car71, car72, car75>; dining_table: <>; potted_plant: <>
+ banana: <>; car: < car67, car49, car91, car71, car72>; dining_table: <>; potted_plant: <>
+ car: < car67, car85, car91, car49, car75, car71, car72>; dining_table: <>; potted_plant: <>
+ car: < car72, car85, car91, car67, car49, car75, car71>; potted_plant: <>
+ car: < car72, car71, car91, car49, car67, car85>; couch: <>; potted_plant: <>
+ car: < car72, car71, car91, car49, car67>; potted_plant: <>
+ car: < car71, car91, car72, car67, car49, car82>; couch: <>
+ car: < car72, car71, car91, car67, car85, car78, car82>; couch: <>
+ car: < car91, car78, car67, car85, car71, car82, car72>
+ car: < car91, car71, car82, car85, car67, car72>
+ car: < car82, car67, car78, car85, car98, car71, car72>; potted_plant: <>
+ car: < car72, car71, car85, car67, car98>; couch: <>; potted_plant: <>
+ car: < car91, car72, car82, car71, car67>; dining_table: <>; potted_plant: <>
+ car: < car71, car82, car67, car72>; potted_plant: <>
+ car: < car91, car78, car71, car72, car67>; potted_plant: <>
+ car: < car78, car67, car71, car72>; potted_plant: <>; sink: <>
+ car: < car78, car67, car91, car72, car71>; potted_plant: <>
+ car: < car91, car71, car85, car67, car72>; potted_plant: <>
+ car: < car91, car71, car72, car67>; potted_plant: <>
+ car: < car72, car67, car71>; potted_plant: <>
+ car: < car85, car72, car67, car71>; potted_plant: <>
+ car: < car85, car91, car67, car110, car71, car72>
+ car: < car85, car110, car71, car72>
+ car: < car82, car85, car71, car72>; dining_table: <>; kite: <>; potted_plant: <>
+ car: < car91, car71, car72>; potted_plant: <>
+ car: < car91, car71, car72>
+ car: < car91, car82, car72, car71>; potted_plant: <>
+ car: < car91, car72, car71>; potted_plant: <>
+ car: < car109, car71, car72, car102>; couch: <>; potted_plant: <>
+ car: < car72, car71>; dining_table: <>; potted_plant: <>
+ car: < car78, car91, car71, car72>; potted_plant: <>
+ car: < car91, car85, car72, car71>; potted_plant: <>
+ car: < car85, car71, car91, car72, car102>; potted_plant: <>
+ car: < car72, car71, car91, car85, car102>; potted_plant: <>
+ car: < car72, car71, car85, car91, car102>; potted_plant: <>
+ car: < car72, car78, car85, car71, car102, car91>; couch: <>; potted_plant: <>
+ car: < car91, car78, car72, car71, car85>; couch: <>; potted_plant: <>
+ car: < car78, car102, car85, car71, car72>; potted_plant: <>
+ car: < car91, car78, car85, car102, car71, car72>; potted_plant: <>
+ car: < car102, car72, car78, car91, car71>; potted_plant: <>
+ car: < car78, car85, car102, car91, car71, car72>; potted_plant: <>
+ car: < car91, car78, car71, car85, car102>
+ car: < car78, car85, car102, car71>; potted_plant: <>; truck: <>
+ car: < car78, car91, car102, car71>
+ car: < car78, car91, car85, car102, car71, car115>; potted_plant: <>; truck: <>
+ car: < car78, car91, car102, car71>
+ car: < car78, car91, car85, car71>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car91, car102, car71, car78>; potted_plant: <>
+ car: < car91, car78, car85, car71, car116, car111>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car111, car85, car91, car116, car71, car78, car102>; dining_table: <>; person: <>; potted_plant: <>
+ car: < car71, car78, car91, car102, car85>; dining_table: <>; person: <>; potted_plant: <>
+ car: < car78, car85, car91, car71, car102>; dining_table: <>; potted_plant: <>
+ car: < car78, car91, car111, car85, car71, car102>; dining_table: <>; kite: <>; potted_plant: <>
+ car: < car78, car85, car71, car102, car111, car91>; dining_table: <>
+ car: < car111, car78, car85, car102, car71, car91>; dining_table: <>; fork: <>; potted_plant: <>
+ car: < car111, car71, car78, car102, car91, car116>; fork: <>; potted_plant: <>
+ car: < car71, car78, car91, car102, car111>; knife: <>; potted_plant: <>
+ car: < car78, car91, car111, car102>; knife: <>; potted_plant: <>
+ car: < car78, car102, car111, car116>; potted_plant: <>
+ car: < car102, car78, car111>; couch: <>; potted_plant: <>
+ car: < car91, car78, car102, car111>; couch: <>; motorcycle: <>; potted_plant: <>
+ car: < car91, car78, car102, car111>; dining_table: <>; potted_plant: <>
+ car: < car91, car78, car102, car111>; potted_plant: <>
+ car: < car78, car91, car111, car102>; couch: <>; potted_plant: <>
+ car: < car102, car91, car78, car111>; potted_plant: <>
+ car: < car91, car78, car111, car102, car113>; potted_plant: <>
+ car: < car91, car113, car78, car102, car111>; potted_plant: <>
+ car: < car102, car78, car91, car111>; couch: <>; potted_plant: <>
+ car: < car91, car78, car111, car102>; potted_plant: <>
+ car: < car91, car127, car102>; potted_plant: < potted_plant117>
+ car: < car102, car91, car111, car113>; potted_plant: <>
+ car: < car102, car91, car111>; potted_plant: < potted_plant117>
+ car: < car91, car102, car111>; potted_plant: <>
+ car: < car91, car102, car111>; potted_plant: < potted_plant117>
+ car: < car91, car129, car102, car111>; potted_plant: < potted_plant117>
+ car: < car91, car111, car129, car102>; dining_table: <>; potted_plant: <>
+ car: < car91, car113, car111, car102, car129>; potted_plant: <>
+ car: < car130, car102, car111>; potted_plant: <>
+ car: < car102, car111>; dining_table: <>; potted_plant: < potted_plant117>
+ car: < car130, car102, car111>; dining_table: <>; potted_plant: <>
+ car: < car111, car130, car102>; potted_plant: <>
+ car: < car130, car111>; dining_table: <>; potted_plant: <>
+ car: < car111>; dining_table: <>; potted_plant: <>
+ car: < car113, car111>; potted_plant: <>
+ car: < car111>; dining_table: <>; potted_plant: <>
+ car: < car129, car111>; truck: <>
+ car: < car123, car111>; truck: <>
+ car: < car123, car130, car139, car129, car119, car111>; dining_table: <>; truck: <>
+ car: < car123, car111>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car123, car111, car119>; dining_table: <>; potted_plant: <>
+ car: < car139, car130, car111, car123, car119>; dining_table: <>; potted_plant: <>
+ car: < car139, car130, car123, car111>; potted_plant: < potted_plant117>
+ car: < car111, car123>; potted_plant: <>; truck: <>
+ car: < car123, car111>; potted_plant: < potted_plant117>; truck: <>
+ car: < car123, car111>; couch: <>; potted_plant: <>
+ car: < car123, car111>; potted_plant: < potted_plant117>
+ car: < car123, car111>; potted_plant: <>
+ car: < car111, car123>; cell_phone: <>; potted_plant: < potted_plant117>
+ car: < car123, car111>; potted_plant: <>
+ car: < car123, car111>; potted_plant: <>
+ car: < car123, car111>
+ car: < car147, car111, car123>; potted_plant: <>
+ car: < car111, car123, car147>
+ car: < car147, car111, car123>; potted_plant: <>
+ car: < car123, car139, car147, car111>; potted_plant: <>
+ car: < car152, car111, car123>; potted_plant: <>
+ car: < car123, car111>; potted_plant: <>
+ car: < car111, car123>; potted_plant: <>
+ car: < car139, car111, car123>; potted_plant: <>
+ car: < car139, car123, car111>; potted_plant: <>
+ car: < car111, car139, car123>; potted_plant: <>
+ car: < car139, car131, car111>; potted_plant: <>; truck: <>
+ car: < car131, car111, car123>; potted_plant: <>; truck: <>
+ car: < car111, car123>; potted_plant: <>; truck: <>
+ bus: <>; car: < car111>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car147, car111>; potted_plant: <>; truck: <>
+ bus: <>; car: < car147, car111>; potted_plant: <>; truck: <>
+ car: < car111>; couch: <>; potted_plant: <>; truck: <>
+ car: < car111>; potted_plant: <>; truck: <>
+ bus: <>; car: < car123>; potted_plant: <>; truck: <>
+ bus: <>; car: < car123>; potted_plant: <>; truck: <>
+ bus: <>; car: < car147, car123, car139>; kite: <>; potted_plant: <>; truck: < truck161>
+ bus: <>; car: < car147, car139, car123>; potted_plant: <>; truck: <>
+ bus: <>; car: < car147>; potted_plant: <>; truck: <>
+ bus: <>; car: < car147>; potted_plant: <>; truck: <>
+ bus: <>; car: < car147>; potted_plant: <>; truck: < truck164>
+ bus: <>; car: < car153, car147>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car139, car147, car153>; dining_table: <>; potted_plant: <>; truck: < truck167>
+ bus: < bus167>; car: < car139, car147, car153>; couch: <>; potted_plant: <>; truck: <>
+ bus: < bus167>; car: < car139, car153, car147>; couch: <>; potted_plant: <>; truck: < truck164>
+ bus: <>; car: < car157, car153, car147, car139>; dining_table: <>; potted_plant: <>; truck: < truck167, truck164>; vase: <>
+ bus: < bus167>; car: < car139, car153, car147, car157>; dining_table: <>; potted_plant: < potted_plant117>; truck: < truck161>
+ bus: < bus167>; car: < car157, car153, car147, car139>; dining_table: <>; potted_plant: <>; truck: < truck164>; vase: <>
+ bus: < bus167>; car: < car139, car153, car147, car123, car157>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car139, car153, car147, car123>; dining_table: <>; potted_plant: <>; truck: < truck167, truck164>
+ bus: <>; car: < car157, car153, car147, car123, car139>; potted_plant: <>; truck: < truck164, truck167>
+ bus: <>; car: < car153, car147, car123, car139>; potted_plant: <>; truck: < truck164, truck167>
+ bus: <>; car: < car153, car139, car123, car164, car147>; cell_phone: <>; couch: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car153, car123, car161, car139>; cell_phone: <>; couch: <>; person: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car153, car123, car164, car139>; cell_phone: <>; couch: <>; potted_plant: <>; truck: < truck161>
+ car: < car157, car153, car123, car139, car147>; cell_phone: <>; couch: <>; potted_plant: <>; truck: < truck161>
+ car: < car157, car139, car123, car153>; cell_phone: <>; couch: <>; potted_plant: <>; sports_ball: <>; truck: <>
+ bus: <>; car: < car157, car123, car153, car139>; potted_plant: <>; truck: < truck164>
+ bus: <>; car: < car157, car139, car123, car147, car153>; truck: <>
+ bus: <>; car: < car153, car123, car157, car139>; truck: <>
+ bus: <>; car: < car153, car123, car139, car157>; potted_plant: <>; truck: <>
+ car: < car153, car123, car139, car157>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car123, car164, car157, car139, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car153, car123, car139>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car153, car123, car139>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car153, car139, car123>; potted_plant: <>; truck: <>
+ bus: <>; car: < car123, car139, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car139, car123, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car139, car167, car123>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car123, car139, car182, car153>; potted_plant: < potted_plant175>; truck: <>
+ bus: <>; car: < car123, car139, car167, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car153, car123>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car123, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car153, car123, car173, car157>; potted_plant: < potted_plant175>; truck: <>
+ bus: <>; car: < car157, car153, car123>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car153, car123, car173>; potted_plant: <>; truck: <>
+ bus: < bus182>; car: < car157, car123, car153, car173>; potted_plant: < potted_plant175>; truck: <>
+ bus: <>; car: < car157, car153, car123>; potted_plant: < potted_plant175>; truck: <>
+ car: < car157, car177, car123, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car123, car157, car177, car182, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car173, car123, car153>; couch: <>; potted_plant: <>; truck: <>
+ car: < car157, car177, car123, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car123, car157, car173, car177, car153>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car153, car177, car123, car173, car157>; potted_plant: <>; train: <>; truck: <>
+ car: < car177, car157, car173, car153, car176>; potted_plant: <>; truck: <>
+ car: < car157, car173, car177, car176, car153>; potted_plant: < potted_plant175>; truck: <>
+ car: < car157, car177, car153, car176>; potted_plant: < potted_plant175>; truck: <>
+ bus: <>; car: < car153, car157, car173, car177>; potted_plant: <>; truck: <>
+ bus: <>; car: < car173, car157, car177, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car153, car177>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car177, car153>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car153, car177>; potted_plant: <>; truck: <>
+ bus: <>; car: < car157, car177, car153>; dining_table: <>; potted_plant: < potted_plant175>; truck: <>
+ car: < car153, car177, car173, car157>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car173, car177, car157, car153>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car153, car173, car157, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car177, car173, car153, car157>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car177, car157, car153>; dining_table: <>; potted_plant: <>
+ car: < car177, car153, car157>; dining_table: <>
+ car: < car157, car177, car153>; dining_table: <>
+ car: < car198, car157, car153>
+ car: < car157, car177, car198, car153>; truck: <>
+ car: < car157, car153>; dining_table: <>; truck: <>
+ car: < car157, car177, car153>; dining_table: <>; truck: <>
+ car: < car157, car199, car153, car177>; dining_table: <>; truck: <>
+ car: < car177, car173, car157, car153>; potted_plant: <>
+ car: < car173, car185, car157, car153, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car177, car173, car185, car153, car157>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car173, car177, car157>; truck: <>
+ car: < car198, car177, car157, car173>; potted_plant: <>; truck: <>
+ car: < car177, car173, car157, car189, car185>; potted_plant: <>; truck: <>
+ bus: <>; car: < car185, car177, car173, car157>; potted_plant: <>; truck: <>
+ car: < car177, car173, car198, car157, car189>; couch: <>; motorcycle: <>; potted_plant: <>; truck: <>
+ car: < car157, car173, car189, car198, car177>; potted_plant: <>; truck: <>
+ car: < car173, car157, car177, car189>; potted_plant: <>; truck: <>
+ car: < car173, car157, car177>; couch: <>; potted_plant: <>; truck: <>
+ car: < car177, car173, car157, car189>; potted_plant: <>; truck: <>
+ car: < car173, car189, car157, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car177, car173, car157, car189>; potted_plant: < potted_plant175>; truck: <>
+ car: < car173, car189, car157, car177>; potted_plant: <>; truck: <>
+ car: < car177, car173, car157>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car157, car173, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car177, car157, car173>; potted_plant: <>; truck: <>
+ car: < car177, car173, car157>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car157, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car177, car157, car198>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car177, car157>; dining_table: <>; potted_plant: < potted_plant175>; truck: <>
+ car: < car177, car157>; dining_table: <>; potted_plant: <>
+ car: < car157, car177>; couch: <>; potted_plant: <>; truck: <>
+ book: <>; car: < car216, car198, car177>; dining_table: <>; potted_plant: < potted_plant175>
+ car: < car177, car198>; cell_phone: <>; dining_table: <>; potted_plant: <>
+ car: < car177>; dining_table: <>; kite: <>; potted_plant: <>; truck: <>; vase: <>
+ car: < car198, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car177, car205, car198>; cell_phone: <>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car177>; dining_table: <>; potted_plant: <>; truck: < truck216>
+ car: < car205, car216, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car216, car177>; cell_phone: <>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car217, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car217, car177>; dining_table: <>; potted_plant: <>; truck: < truck216>
+ car: < car217, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car205, car177>; potted_plant: <>; truck: <>
+ car: < car205, car177>; cell_phone: <>; person: <>; potted_plant: <>; truck: <>
+ car: < car177, car205>; potted_plant: <>; truck: <>
+ bus: <>; car: < car205, car177>; cell_phone: <>; couch: <>; potted_plant: <>; sports_ball: <>; truck: < truck216>
+ car: < car205, car189, car177>; couch: <>; potted_plant: <>; sports_ball: <>; truck: <>
+ car: < car205, car177, car216>; kite: <>; potted_plant: < potted_plant175>; truck: <>
+ car: < car177>; kite: <>; potted_plant: <>; truck: < truck216>
+ car: < car205, car177>; potted_plant: <>; truck: < truck216>
+ car: < car205, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car205, car177>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car216, car177, car205>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car205, car177, car235>; dining_table: <>; truck: <>
+ car: < car216>; dining_table: <>; truck: <>
+ car: <>; truck: < truck216>
+ car: < car205>; truck: <>
+
+
+ car: < car205>; potted_plant: <>; truck: <>
+ car: < car205>; couch: <>; potted_plant: <>; truck: <>
+ car: < car205, car227>; truck: <>
+ car: < car227, car205>; potted_plant: <>
+ car: < car227, car205>; potted_plant: <>
+ car: < car227>; potted_plant: <>; train: <>; truck: <>
+ car: < car205, car227>; potted_plant: <>; truck: <>
+ car: < car227>
+ car: < car227>; potted_plant: <>
+
+ car: < car227>; potted_plant: <>
+ car: < car205>; motorcycle: <>; potted_plant: <>
+ car: < car227, car205>; potted_plant: <>
+ car: < car205>; potted_plant: <>
+ car: < car205>; potted_plant: <>; truck: <>
+ car: < car227, car205>; potted_plant: <>
+ car: < car227, car205>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car227, car205>; potted_plant: <>
+ bus: <>; car: < car227, car205>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car205>; potted_plant: <>
+ bus: <>; car: < car227, car205>; potted_plant: <>
+ bus: <>; car: < car205>; potted_plant: <>
+ bus: <>; car: < car205>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car205>; potted_plant: <>; truck: <>
+ bus: <>; car: < car205>; potted_plant: <>
+ bus: <>; car: < car205>; person: <>; truck: < truck241>
+ bus: <>; car: < car227, car205>; potted_plant: <>
+ bus: <>; car: < car205, car227>; potted_plant: <>
+ bus: <>; car: < car205>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car205>; couch: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car205, car241>; potted_plant: <>
+ bus: <>; car: < car205, car241>; couch: <>; potted_plant: <>
+ bus: <>; car: < car205>; kite: <>; truck: < truck241>
+ bus: <>; car: < car205>; couch: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: <>; couch: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: <>; couch: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227>; kite: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227, car241>; couch: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car227, car241>; kite: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car227, car241>; potted_plant: <>; truck: <>
+ bus: <>; car: < car227, car241>; potted_plant: <>; truck: <>
+ bus: <>; car: < car227>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227>; person: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227>; person: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227>; truck: < truck241>
+ bus: <>; car: < car227>; truck: < truck241>
+ bus: <>; car: <>; truck: < truck241>
+ bus: <>; car: < car241, car227>; truck: <>
+ bus: <>; car: < car227>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227, car257>; person: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car227, car258>; truck: < truck259, truck241>
+ bus: <>; car: < car227>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: < car227>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car227>; truck: < truck241>
+ bus: < bus247>; car: < car227>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: < car227>; kite: <>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: < car227>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: < car227>; couch: <>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: < car227>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: <>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: <>; truck: <>
+ bus: < bus247>; car: < car241>; truck: <>
+ bus: < bus247>; car: < car257, car241>; truck: <>
+ bus: < bus247>; car: < car257>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: <>; truck: < truck241>
+ bus: <>; car: < car241>; truck: <>
+ bus: < bus247>; car: < car259, car257>; truck: < truck241>
+ bus: < bus247>; car: < car257, car259>; truck: < truck241>
+ bus: <>; car: < car259, car257>; truck: < truck241>
+ bus: < bus247>; car: < car259, car257, car241>; truck: <>
+ bus: < bus247>; car: < car259, car257>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: < car257, car259, car241>; truck: <>
+ bus: < bus247>; car: < car257>; truck: < truck241>
+ bus: < bus247>; car: < car259, car257>; person: <>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: < car257, car241, car259>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car257>; potted_plant: <>; truck: < truck241>
+ bus: < bus247>; car: < car259>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car257, car259>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car257, car241>
+ bus: <>; car: < car257>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car259, car241>; person: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: <>; potted_plant: <>; truck: < truck241>
+ bus: <>; car: < car257, car241>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car241>; kite: <>; potted_plant: <>
+ bus: < bus247>; car: < car241>; kite: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car241>; potted_plant: <>
+ bus: < bus247>; car: < car241>; potted_plant: <>
+ bus: < bus247>; car: < car257, car241>; dining_table: <>; kite: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car268, car257, car241>; dining_table: <>; kite: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car257, car241, car268>; potted_plant: <>
+ bus: < bus247>; car: < car268, car241, car257>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car268, car241>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car257, car268, car241>; dining_table: <>; skateboard: <>
+ bus: < bus247>; car: < car268, car257>; dining_table: <>; truck: <>
+ bus: <>; car: < car257, car268>; truck: <>
+ bus: < bus247>; car: < car268, car257>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car268, car257>; person: <>; potted_plant: <>
+ bus: < bus247>; car: < car271>; potted_plant: <>
+ bus: < bus247>; car: < car257>; dining_table: <>; potted_plant: <>; truck: < truck268>
+ bus: <>; car: < car257>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car257>; potted_plant: <>; truck: <>
+ bus: <>; car: < car257>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car271, car257, car268>; potted_plant: <>
+ bus: <>; car: < car271, car268, car257>; potted_plant: <>
+ bus: < bus247>; car: < car271, car268>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car271, car268>; mouse: <>; potted_plant: <>
+ bus: < bus247>; car: < car268>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car285, car268>; potted_plant: <>
+ bus: < bus247>; car: < car271>; potted_plant: <>
+ bus: < bus247>; car: < car271, car268, car285>; potted_plant: <>
+ bus: < bus247>; car: < car268, car271>
+ bus: < bus247>; car: < car268>; potted_plant: <>
+ bus: < bus247>; car: < car268, car285>; potted_plant: <>
+ bus: < bus247>; car: < car268, car285>; potted_plant: <>; truck: <>
+ bus: <>; car: < car268, car285>; potted_plant: <>
+ bus: < bus247>; car: < car268>; truck: <>
+ bus: < bus247>; car: < car268>; person: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car268>; truck: <>
+ bus: <>; car: < car268>; potted_plant: <>; truck: < truck247>
+ bus: <>; car: < car268>; potted_plant: <>; truck: < truck247>
+ bus: < bus247>; car: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: <>; person: <>
+ bus: <>; car: < car268>; person: <>; potted_plant: <>; truck: < truck247>
+ bus: <>; car: <>; potted_plant: <>; truck: < truck247>
+ bus: < bus247>; car: < car268>; person: <>; potted_plant: <>; truck: <>
+ bus: < bus247>; car: < car294, car268>; potted_plant: <>; truck: <>
+ bus: <>; car: < car268>; person: <>; potted_plant: <>; truck: < truck247>
+ bus: < bus247>; car: < car268>; potted_plant: <>; truck: <>
+ bus: <>; car: < car268>; potted_plant: <>; truck: < truck247>
+ bus: < bus247>; car: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car276, car271, car268>; potted_plant: <>; truck: <>
+ bus: <>; car: < car271, car268>; potted_plant: <>; truck: < truck297>
+ bus: <>; car: < car271>; truck: <>
+ bus: <>; car: < car271>; potted_plant: <>; truck: <>
+ bus: <>; car: < car271>; truck: <>
+ bus: <>; car: < car271>; truck: <>
+ bus: <>; car: < car271>; potted_plant: <>; truck: <>
+ bus: <>; car: < car271>; truck: <>
+ bus: <>; car: < car290>; potted_plant: <>; truck: <>
+ bus: <>; car: < car271>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: < bus301>; car: < car271, car290>; potted_plant: <>; truck: <>
+ bus: <>; car: <>; dining_table: <>; potted_plant: <>; truck: < truck301>
+ bus: <>; car: < car290>; potted_plant: <>; truck: < truck301>
+ car: < car290>; potted_plant: <>; truck: <>
+ car: < car290, car294>; potted_plant: <>; truck: <>
+ car: < car293, car290, car307>; potted_plant: <>; truck: <>
+ car: < car290, car293>; potted_plant: <>; truck: <>
+ car: < car293, car290>; potted_plant: <>; truck: <>
+ car: < car290, car293, car283>; potted_plant: <>; truck: <>
+ car: < car293>; potted_plant: <>; truck: <>
+ car: < car290, car293>; kite: <>; potted_plant: <>; truck: <>
+ car: < car293>; potted_plant: <>
+ car: < car293>; fork: <>; potted_plant: <>
+ car: < car293>; potted_plant: <>
+ car: < car290, car293>; potted_plant: <>
+ car: < car293, car290>; potted_plant: <>
+ car: < car290, car293>; potted_plant: <>
+ car: < car293, car290>
+ car: < car293>; potted_plant: <>
+ car: < car293>; toilet: <>
+ car: < car290, car293, car300>
+ car: < car293, car300>; motorcycle: <>; potted_plant: <>
+ car: < car293>; motorcycle: <>
+ car: < car303, car293>; potted_plant: <>
+ car: < car293>; potted_plant: <>
+ car: < car293, car290>; potted_plant: <>
+ car: < car290, car293>; potted_plant: <>
+ car: < car293, car290>; potted_plant: <>
+ car: < car293, car303, car290>; potted_plant: <>
+ car: < car293, car290>; potted_plant: <>
+ car: < car290, car293, car303>; potted_plant: <>
+ car: < car290, car303, car293>; potted_plant: <>
+ car: < car293, car290, car303>; potted_plant: <>; spoon: <>
+ car: < car290, car293, car303>; potted_plant: <>
+ car: < car293, car290, car303>; potted_plant: <>
+ car: < car293, car290, car303>; potted_plant: <>
+ car: < car290, car293, car303>; potted_plant: <>
+ car: < car293, car290, car303>; potted_plant: <>
+ car: < car293, car290, car303>; potted_plant: <>
+ car: < car290, car293, car303>; potted_plant: <>; truck: <>
+ car: < car290, car293, car303>; potted_plant: <>
+ car: < car293, car290, car303>; dining_table: <>; potted_plant: < potted_plant321>; truck: <>
+ car: < car293, car303>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car293, car303>; truck: <>
+ car: < car293, car303>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car303, car293>
+ car: < car293, car317, car303>; potted_plant: <>
+ car: < car303, car293, car317>; potted_plant: <>; truck: <>
+ car: < car317, car293, car303>; potted_plant: <>; truck: <>
+ car: < car293, car317, car303>; couch: <>; potted_plant: <>
+ car: < car293, car303, car317>; potted_plant: <>
+ car: < car303, car317, car293>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car303, car317, car293>; potted_plant: <>
+ car: < car293, car317, car303>; dining_table: <>
+ car: < car303, car293>
+ car: < car317, car293, car303>
+ car: < car303, car293>; person: <>
+ car: < car303, car319, car293>; person: <>; potted_plant: <>
+ car: < car293, car317, car318, car303>; person: <>; potted_plant: <>
+ car: < car293, car317, car318, car303>; person: <>; potted_plant: <>
+ car: < car317, car303, car318, car293>; person: <>; potted_plant: <>
+ car: < car293, car318, car319, car303>; potted_plant: <>
+ car: < car293, car317, car303>; person: <>; potted_plant: <>
+ car: < car293, car318, car303>; potted_plant: <>
+ car: < car293, car317, car318, car303, car319>; potted_plant: <>
+ car: < car318, car317, car293, car303>; person: <>; potted_plant: <>
+ car: < car293, car318, car317, car303>; potted_plant: <>
+ car: < car293, car317, car318, car303>; potted_plant: <>
+ car: < car318, car303, car293, car317>; dining_table: <>; potted_plant: <>
+ car: < car293, car318, car317, car303>; dining_table: <>; potted_plant: <>
+ car: < car317, car303, car318, car293>; dining_table: <>; potted_plant: <>
+ car: < car318, car303, car293>; dining_table: <>
+ car: < car318, car317, car303, car293>; dining_table: <>
+ car: < car318, car317, car303, car293>; dining_table: <>
+ car: < car318, car317, car303, car319, car293>; dining_table: <>
+ car: < car318, car293, car303>; dining_table: <>; potted_plant: <>
+ car: < car318, car303, car317, car293>
+ car: < car317, car293, car303>; dining_table: <>; person: <>; potted_plant: <>
+ car: < car318, car293, car317>; dining_table: <>
+ car: < car317, car293>; potted_plant: <>
+ car: < car317, car293, car328>; person: <>; potted_plant: <>
+ car: < car293>; person: <>
+ car: < car317, car328, car293>
+ car: < car318, car293>; person: <>
+ car: < car318, car328, car293>
+ car: < car328, car318, car293>; person: <>; potted_plant: <>
+ car: < car317, car328, car318, car293>; person: <>; potted_plant: <>; skateboard: <>
+ car: < car317, car318, car293, car328>; person: < person342>; potted_plant: <>
+ car: < car317, car328, car318, car293>; potted_plant: <>
+ car: < car317, car318, car293>; potted_plant: <>
+ car: < car328, car317, car318, car293>; potted_plant: <>
+ car: < car328, car318, car293>; potted_plant: <>
+ car: < car318, car293, car317, car328>
+ car: < car318, car317, car328>; potted_plant: <>
+ car: < car317>; dining_table: <>; potted_plant: <>
+ car: < car328, car317, car318>; potted_plant: <>
+ car: < car328, car317, car346, car318>; potted_plant: <>
+ car: < car328, car347, car317>; potted_plant: <>
+ car: < car328, car317, car318>; potted_plant: <>
+ car: < car317, car328>; potted_plant: <>
+ car: < car328, car318>; potted_plant: <>
+ car: < car351, car318, car347, car328>; potted_plant: <>
+ car: < car328>; potted_plant: <>
+
+ car: < car318>; potted_plant: <>
+ car: < car328>; potted_plant: <>
+ car: < car328>; dining_table: <>; potted_plant: <>
+ car: < car328, car347>; dining_table: <>; potted_plant: <>
+ car: < car347, car328>; dining_table: <>; potted_plant: <>
+ car: < car328>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car328, car356>; dining_table: <>; potted_plant: <>
+ car: < car328>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car328>; dining_table: <>; potted_plant: <>; truck: <>
+
+ boat: <>; car: < car328>; dining_table: <>; potted_plant: <>
+ boat: <>; car: < car328>; dining_table: <>; potted_plant: <>
+ boat: <>; car: < car328, car343>; dining_table: <>; potted_plant: <>; truck: <>
+ boat: <>; car: < car328, car343>; dining_table: <>; potted_plant: <>
+ car: < car328>; truck: <>
+ car: < car328>; dining_table: <>
+ car: < car328, car343>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car328>; dining_table: <>; potted_plant: <>
+ car: < car328, car343>; dining_table: <>; potted_plant: <>
+ car: < car328, car343>; cell_phone: <>; dining_table: <>; potted_plant: <>
+ car: < car328, car343>; cell_phone: <>; dining_table: <>; potted_plant: <>
+ car: < car328, car343>; cell_phone: <>
+ car: < car328, car343>; cell_phone: <>; potted_plant: <>
+ car: < car328, car343>; cell_phone: <>; dining_table: <>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car343, car328>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328, car343>; dining_table: <>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car343, car328>
+ car: < car328, car343>; truck: <>
+ car: < car343, car328>; truck: <>
+ car: < car328, car343>; person: <>; truck: <>
+ car: < car328, car343>; person: <>; potted_plant: <>; truck: <>
+ car: < car343, car328>; person: <>; potted_plant: <>
+ car: < car343, car328, car375>; potted_plant: <>; truck: <>
+ car: < car343, car328, car375>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>; truck: <>
+ car: < car328, car375>; truck: <>
+ car: < car328, car375>; potted_plant: <>
+ car: < car328, car343>; potted_plant: <>
+ car: < car363, car343, car328>; potted_plant: <>
+ car: < car328, car358, car343>; potted_plant: <>
+ car: < car328, car375, car343>; potted_plant: <>
+ car: < car328, car375, car343>; potted_plant: <>
+ car: < car375, car328>; potted_plant: <>
+ car: < car328, car375>; potted_plant: <>
+ car: < car328, car375>; truck: <>
+ car: < car328, car375>; truck: <>
+
+ car: < car375, car343>; truck: <>
+ car: < car375>; truck: <>
+ car: < car343, car375>; potted_plant: <>; train: <>; truck: <>
+ car: < car343, car375>; train: <>; truck: <>
+ car: < car343, car375>; potted_plant: <>; truck: <>
+ car: < car343>; potted_plant: <>; truck: <>
+ car: < car384>; potted_plant: <>; truck: <>
+ car: < car384>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car372>; potted_plant: <>; truck: <>
+
+ car: < car386, car375>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car375>; potted_plant: <>; truck: <>
+ car: < car374, car372>; dining_table: <>; person: <>; potted_plant: <>; truck: < truck375>
+ car: < car375, car386, car374, car392>; dining_table: <>; truck: <>
+ car: < car374, car372, car392, car375>; truck: <>
+ car: < car386, car374, car375, car392>; potted_plant: <>; truck: <>
+ car: < car375, car372>; potted_plant: <>; truck: <>
+ car: < car374, car375, car386, car372, car392>; potted_plant: <>; truck: <>
+ car: < car386, car374, car375>
+ car: < car375, car372>
+ car: < car375, car392>; potted_plant: <>; truck: <>
+ car: < car372>; potted_plant: <>
+ car: < car392, car375>; truck: <>
+ car: < car386, car392, car375>; potted_plant: <>
+ car: < car375>; potted_plant: <>
+ car: < car375>; potted_plant: <>; truck: <>
+ car: < car375>; potted_plant: <>
+ car: < car375>; cell_phone: <>; potted_plant: <>
+ car: < car375>; potted_plant: <>; truck: <>
+ car: < car386, car375, car372>
+ car: < car386, car375>; potted_plant: <>; truck: <>
+ car: < car386, car405, car375>; potted_plant: <>; truck: <>
+ car: < car405, car375>; potted_plant: <>; truck: <>
+ car: < car386, car375>; potted_plant: <>; truck: <>
+ car: < car386>; potted_plant: <>; truck: < truck375>
+ car: < car386, car375>; truck: <>
+ car: < car405, car375>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car386, car405, car375>; potted_plant: <>; truck: <>
+ car: < car399, car375>; potted_plant: <>; truck: <>
+ car: < car399, car405, car386, car375>; potted_plant: <>
+ car: < car399, car386, car375>; potted_plant: <>
+ car: < car399, car405, car375>; potted_plant: <>
+ car: < car405, car386, car399, car375>; potted_plant: <>
+ bus: <>; car: < car405, car386, car375, car399>; potted_plant: <>
+ bus: <>; car: < car399, car375, car405>; potted_plant: <>
+ bus: <>; car: < car399, car405, car375>; potted_plant: <>
+ bus: <>; car: < car387, car405, car375, car399>; potted_plant: <>
+ bus: <>; car: < car399, car405, car414, car375>; potted_plant: <>; truck: <>
+ bus: <>; car: < car405, car399, car375>; potted_plant: <>
+ bus: <>; car: < car405, car375, car399, car386>; potted_plant: <>
+ bus: <>; car: < car405, car386, car375, car415, car399>; potted_plant: <>
+ bus: <>; car: < car375, car405, car399>; potted_plant: <>
+ bus: <>; car: < car399, car405, car375>; potted_plant: <>
+ bus: <>; car: < car405, car375, car386, car399>; truck: <>
+ bus: < bus414>; car: < car405, car375, car399>; potted_plant: <>
+ car: < car399, car375, car405>; potted_plant: <>
+ car: < car399, car405, car375, car386, car414>; potted_plant: <>
+ bus: <>; car: < car405, car386, car414, car375, car399>; potted_plant: <>
+ bus: < bus414>; car: < car399, car405, car386, car375>; potted_plant: <>
+ bus: < bus414>; car: < car399, car405, car386, car375>; potted_plant: <>
+ bus: <>; car: < car399, car405, car375, car417, car414>; potted_plant: <>
+ car: < car399, car405, car386, car375, car414>; potted_plant: <>
+ car: < car399, car405, car375>; potted_plant: <>; truck: < truck414>
+ car: < car399, car405, car375>; dining_table: <>; potted_plant: <>; truck: < truck414>
+ car: < car399, car375, car405>; potted_plant: <>; truck: <>
+ boat: <>; bus: <>; car: < car399, car405, car375, car423, car422>; potted_plant: <>; truck: <>
+ bus: <>; car: < car399, car405, car423, car375>; potted_plant: <>
+ bus: <>; car: < car399, car405, car375>; truck: <>
+ bus: < bus414>; car: < car399, car405, car375, car411>; potted_plant: <>; truck: <>
+ bus: <>; car: < car399, car405, car411, car414>; potted_plant: <>; truck: <>
+ car: < car405, car411, car399>; potted_plant: <>; truck: <>
+ car: < car399, car405, car411>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car399, car405, car411>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car399, car405, car411>; dining_table: <>; potted_plant: <>; truck: < truck414>
+ bus: <>; car: < car399, car411, car405>; potted_plant: <>; truck: < truck414>
+ bus: <>; car: < car411, car405, car399>; potted_plant: <>; truck: < truck414>
+ car: < car399, car411>; potted_plant: <>; truck: <>
+ bus: < bus414>; car: < car399, car411>; potted_plant: <>; truck: <>
+ bus: <>; car: < car399, car411>; potted_plant: <>; truck: <>
+ bus: <>; car: < car399, car411, car414>; potted_plant: <>; truck: <>
+ bus: <>; car: < car399, car411, car414>; truck: <>
+ bus: <>; car: < car399, car411>; truck: < truck414>
+ bus: < bus414>; car: < car399, car411>; truck: <>
+ car: < car411, car399>; truck: <>
+ car: < car421, car399, car411>; truck: < truck414>
+ car: < car399, car421, car411>; truck: < truck414>
+ car: < car399, car421, car414, car411>; potted_plant: <>; truck: <>
+ car: < car399>; truck: < truck414>
+ car: < car421, car414, car399>; truck: <>
+ car: < car399, car421>; truck: <>
+ car: < car411, car421, car399>; truck: <>
+ bus: <>; car: < car399, car411>; truck: <>
+ bus: <>; car: < car421, car411, car399>; potted_plant: <>; truck: <>
+ car: < car421, car432, car414, car399, car411>; potted_plant: <>; truck: <>
+ car: < car414, car411, car399>; potted_plant: <>; truck: <>
+ car: < car421, car399, car411>; potted_plant: <>; truck: <>
+ car: < car421, car411, car414, car399>; potted_plant: <>; truck: <>
+ bus: <>; car: < car421, car414, car399, car411>; potted_plant: <>; truck: <>
+ car: < car421, car432, car399, car414, car411>; potted_plant: <>; truck: <>
+ bus: < bus414>; car: < car421, car432, car399, car411>; potted_plant: <>; truck: <>
+ bus: < bus414>; car: < car432, car411, car399>; potted_plant: <>; truck: <>
+ car: < car432, car414, car411, car399>; potted_plant: <>; truck: <>
+ car: < car421, car432, car414, car411, car399>; motorcycle: <>; truck: <>
+ car: < car432, car399, car411>; motorcycle: <>; potted_plant: <>; truck: < truck414>
+ car: < car411, car399>; potted_plant: <>; truck: < truck414>
+ car: < car399, car414, car411>; potted_plant: <>; truck: <>
+ car: < car432, car399, car411>; truck: <>
+ car: < car421, car432, car399, car411>; potted_plant: <>; truck: <>
+ car: < car432, car430, car399, car414, car411>; potted_plant: <>
+ car: < car432, car421, car430, car414, car411>; potted_plant: <>; truck: <>
+ car: < car432, car430>; potted_plant: <>; truck: <>
+ car: < car432, car430>; potted_plant: <>; train: <>; truck: <>
+ bus: <>; car: < car432, car421, car444, car411, car430>; truck: <>
+ car: < car432, car421, car430, car444, car411>; truck: <>
+ car: < car432, car421, car430, car411>; truck: <>
+ car: < car432, car443, car421, car430, car411>; truck: <>
+ car: < car443, car421, car411, car430>
+ car: < car430, car443, car421, car432, car411>; truck: <>
+ car: < car432, car430, car421, car411>
+ car: < car421, car432, car430, car411>
+ car: < car430, car432, car421, car411>
+ car: < car432, car430, car411, car421>
+ car: < car430, car411, car432, car421>
+ car: < car432, car430, car421, car411>; motorcycle: <>
+ car: < car432, car421, car430, car411>; potted_plant: <>
+ car: < car432, car430, car411>; potted_plant: <>
+ car: < car430, car421, car411, car432>; potted_plant: <>
+ car: < car432, car421, car411, car430>; potted_plant: <>; truck: <>
+ car: < car430, car432, car421, car411>; potted_plant: <>
+ car: < car430, car432, car421, car411>; potted_plant: <>
+ car: < car432, car411, car430>; potted_plant: <>
+ car: < car432, car411, car430>; potted_plant: <>
+ car: < car432, car430, car453>; kite: <>; potted_plant: <>
+ car: < car453, car432, car430>; potted_plant: <>
+ car: < car432, car430>
+ car: < car432, car430>
+ car: < car430, car432>; potted_plant: <>
+ car: < car432, car430>; potted_plant: <>
+ car: < car432>
+ car: < car432, car447>
+ car: < car432, car430>
+ car: < car432, car430>; potted_plant: <>
+ car: < car432, car430>
+ car: < car432, car430>; potted_plant: <>
+ car: < car432, car447, car430>; potted_plant: <>
+ car: < car430, car447, car432>; potted_plant: <>
+ car: < car432, car447, car430>; potted_plant: <>
+ car: < car432, car430>; potted_plant: <>
+ car: < car432, car430>; potted_plant: <>
+ car: < car432, car430, car450>; potted_plant: <>; truck: <>
+ car: < car432, car430, car450>; potted_plant: <>; truck: <>
+ car: < car447, car432, car430>; potted_plant: <>; truck: <>
+ car: < car432, car450, car430>; potted_plant: <>; truck: <>
+ car: < car430, car450, car432>; potted_plant: <>; truck: <>
+ car: < car432, car430>; potted_plant: <>; truck: <>
+ car: < car447, car432, car450, car430>; potted_plant: <>; truck: < truck460>
+ car: < car447, car450, car432, car430>; potted_plant: <>; truck: < truck460>
+ car: < car430, car432>; potted_plant: <>; truck: < truck460>
+ car: < car447, car432, car430>; potted_plant: <>; truck: < truck460>
+ car: < car447, car430, car432, car450>; potted_plant: <>; truck: < truck460>
+ car: < car450, car447, car432, car430>; kite: <>; potted_plant: <>; truck: < truck460>
+ car: < car450, car430, car460, car432>; potted_plant: <>; truck: <>
+ car: < car450, car447, car432, car430, car460>; truck: <>
+ car: < car430, car450, car432>; truck: < truck460>
+ car: < car430, car432>; truck: < truck464, truck460>
+ car: < car447, car430, car432, car464>; truck: < truck460>
+ car: < car430, car464, car432, car460>; truck: <>
+ car: < car432, car464, car430>; potted_plant: <>; truck: < truck460>
+ car: < car430, car432, car464>; potted_plant: <>; truck: <>
+ car: < car432, car430>; potted_plant: <>; truck: <>
+ car: < car430, car432>; truck: < truck460>
+ car: < car450, car447, car430, car432>; potted_plant: <>; truck: < truck460>
+ car: < car450, car447, car430, car432>; kite: <>; potted_plant: <>; truck: < truck460>
+ car: < car450, car447, car430, car432>; kite: <>; potted_plant: <>; truck: < truck460>
+ car: < car450, car447, car430, car432>; potted_plant: <>; truck: < truck460>
+ car: < car447, car432, car430, car455>; truck: < truck460>
+ car: < car447, car450, car432>; truck: < truck460>
+ car: < car432, car447>; truck: < truck460>
+ car: < car447, car432>; truck: < truck460>
+ car: < car432, car447>; truck: < truck460>
+ boat: <>; car: < car447, car432>; potted_plant: <>; truck: <>
+ car: < car447, car432, car450>; potted_plant: <>; truck: <>
+ bus: <>; car: < car447, car432>; potted_plant: <>; truck: <>
+ car: < car450, car447, car432>; potted_plant: <>; truck: <>
+ car: < car450, car432, car447>; potted_plant: <>; truck: < truck460>
+ car: < car450, car447, car432>; potted_plant: <>; truck: < truck460>
+ bus: <>; car: < car450, car447, car432>; potted_plant: <>; truck: < truck460, truck472>
+ car: < car450, car447>; potted_plant: <>; truck: < truck460>
+ car: < car450, car447>; cell_phone: <>; potted_plant: <>; truck: < truck460>
+ car: < car447, car450>; potted_plant: <>; truck: <>
+ car: < car450, car447>; potted_plant: <>; truck: <>
+ bus: <>; car: < car447, car450>; potted_plant: <>; truck: <>
+ car: < car447, car450>; truck: <>
+ car: < car450, car447>; truck: <>
+ car: < car469, car450, car447>; truck: <>
+ car: < car447, car450>; person: <>; truck: <>
+ car: < car447, car450, car477>; person: <>; potted_plant: <>; truck: <>
+ car: < car447, car450>; potted_plant: <>; truck: < truck472>
+ car: < car447, car450>; potted_plant: <>; truck: <>
+ car: < car447, car450>; truck: < truck472>
+ car: < car447, car450>; truck: <>
+ car: < car477, car447, car469>; truck: < truck472>
+ car: < car469, car447, car477>; potted_plant: <>; truck: < truck472>
+ car: < car477, car447>; potted_plant: <>; truck: <>
+ car: < car469, car447>; potted_plant: <>; truck: < truck472>
+ car: < car447, car469>; truck: < truck472>
+ car: < car469, car447>; potted_plant: <>; truck: < truck472>
+ car: < car469, car447>; potted_plant: <>; truck: < truck472>
+ car: < car469, car447>; potted_plant: <>; truck: < truck472>
+ car: < car447, car469>; potted_plant: <>; truck: <>
+ car: < car480, car469, car447>; kite: <>; truck: < truck472>
+ car: < car469, car447>; truck: < truck472>
+ car: < car469, car482, car447>; potted_plant: <>; truck: < truck472>
+ car: < car469, car447>; truck: < truck472>
+ bus: <>; car: < car447, car480, car469>; truck: <>
+ car: < car469, car447>; potted_plant: <>; truck: < truck472>
+ car: < car469, car447>; potted_plant: <>; truck: <>
+ car: < car447, car469>; potted_plant: <>; truck: < truck472>
+ car: < car447, car469>; potted_plant: <>; truck: < truck472>
+ car: < car469, car447>; potted_plant: <>; truck: <>
+ car: <>; potted_plant: <>; truck: < truck472, truck488>
+ car: < car469, car488>; potted_plant: <>; truck: < truck472>
+ car: < car488>; potted_plant: <>; truck: < truck472>
+ car: < car488>; truck: < truck472>
+ car: < car469, car488>; kite: <>; potted_plant: <>; truck: < truck472>
+ car: < car469, car488>; potted_plant: <>; truck: < truck472>
+ car: < car469, car488>; potted_plant: <>; truck: < truck472>
+ car: < car488>; sports_ball: <>; truck: < truck472>
+ car: <>; sports_ball: <>; truck: < truck488, truck472>
+ car: <>; potted_plant: <>; truck: < truck488, truck472>
+ car: < car469>; potted_plant: <>; sports_ball: <>; truck: < truck472>
+ car: < car469>; person: <>; potted_plant: <>; truck: < truck472>
+ car: < car469>; potted_plant: <>; truck: < truck472>
+ car: < car469>; truck: < truck472>
+ car: < car469>; truck: < truck472>
+ car: < car469>; truck: < truck472>
+ car: < car469>; truck: < truck472>
+ car: < car469>; truck: < truck472>
+ car: < car469>; truck: < truck472>
+ car: < car469>; potted_plant: <>; truck: < truck472>
+ car: < car469>; potted_plant: <>; truck: <>
+ car: < car469>; potted_plant: <>; truck: <>
+ car: < car469>; potted_plant: <>; truck: <>
+ car: < car469>; potted_plant: <>; truck: <>
+ car: < car469>; potted_plant: <>; truck: <>
+ car: < car469>; potted_plant: <>; truck: <>
+ car: < car469, car499>
+ car: < car499, car469>; potted_plant: <>; truck: <>
+ car: < car469>; potted_plant: <>
+ car: < car469>; kite: <>; potted_plant: <>
+
+ car: < car469>; kite: <>
+ car: < car469>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ car: < car505>; kite: <>
+ car: < car505>; kite: <>
+ car: < car505>
+ car: < car505>
+ car: < car505>; kite: <>
+
+
+ car: < car505>
+ car: < car505>
+ car: < car505>
+ car: < car505>
+ car: < car505>
+
+ car: < car505>
+ car: < car505>
+ car: < car505>
+ car: < car505>; potted_plant: <>
+ car: < car505>
+ car: < car505>
+
+
+ car: < car505>
+ car: < car505>
+ car: < car505>
+
+ car: < car505>; sports_ball: <>
+ car: < car505>; potted_plant: <>; sports_ball: <>
+ car: < car505>; potted_plant: <>
+ bowl: <>; car: < car505>; dining_table: <>
+ car: < car511, car505>
+ car: < car505>
+ car: < car505, car511>
+ car: < car511>
+ car: < car511>
+ car: < car511, car505>
+ car: < car511, car505>; potted_plant: <>
+ car: < car505>; potted_plant: <>
+ car: < car505>; person: <>; potted_plant: <>
+ car: < car511, car505>; dining_table: <>
+ car: < car511, car505>
+ car: < car511, car505>
+ car: < car505>
+ car: < car511, car505>
+ car: < car505>
+ car: < car511, car505>
+ car: < car511, car505>
+ car: < car511, car505>; truck: <>
+ car: < car511, car505>
+ car: < car505>
+ car: < car511, car505>
+ car: < car505>
+ car: < car505>; person: <>
+ car: < car511, car505>
+ car: < car505>
+ car: < car505>; potted_plant: <>; truck: <>
+ car: < car519, car505>; potted_plant: <>
+ car: < car511, car531, car519>; potted_plant: <>
+ car: < car531, car519>; potted_plant: <>; truck: <>
+ car: < car519>; potted_plant: <>; truck: <>
+ car: < car519>
+ car: < car519>; truck: <>
+ car: < car519>
+ car: < car515>; truck: < truck519>
+ car: < car519, car515, car511>; truck: <>
+ boat: <>; car: < car519, car511>; truck: <>
+ boat: <>; car: < car511>; truck: <>
+ boat: <>; car: < car519>; potted_plant: <>; truck: <>
+ car: < car519>; potted_plant: <>; truck: <>
+ book: <>; car: < car524, car519>; potted_plant: <>; truck: <>
+ bench: <>; car: < car519, car524, car511>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car524, car511, car541>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car511, car524, car519>; truck: <>
+ car: < car524, car511, car519>; truck: <>
+ car: < car519, car524, car511>; potted_plant: <>; truck: <>
+ car: < car524, car519>; truck: <>
+ car: < car524, car519>; truck: <>
+ car: < car524, car519>; truck: <>
+ car: < car524, car525, car519>; potted_plant: <>; truck: <>
+ car: < car524, car519>; potted_plant: <>; truck: <>
+ car: < car524, car529, car519>; potted_plant: <>; truck: <>
+ car: < car524, car529, car519>; potted_plant: <>; truck: <>
+ car: < car524, car525, car519, car529>
+ car: < car528, car524, car519>
+ car: < car524, car529>; potted_plant: <>; truck: <>
+ car: < car524, car529, car528>; kite: <>; potted_plant: <>; truck: <>
+ car: < car524, car519>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car524, car529>; potted_plant: <>; truck: <>
+ car: < car529, car524, car519>; potted_plant: <>; truck: <>
+ car: < car529, car524>; truck: <>
+ car: < car529>; truck: <>
+ car: < car524, car528, car529>; truck: <>
+ car: < car524, car519, car529>; cell_phone: <>; potted_plant: <>; truck: <>
+ car: < car524, car529, car528, car519>; potted_plant: <>; truck: <>
+ car: < car528, car524>; truck: <>
+ car: < car524, car519>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car524, car519>; potted_plant: <>; truck: <>
+ car: < car524, car519, car528>; potted_plant: <>; truck: <>
+ car: < car528, car519>; potted_plant: <>; truck: <>
+ car: < car524, car519>; truck: <>
+ car: < car529, car524, car519>; truck: <>
+ car: < car519, car524>; potted_plant: <>
+ car: < car529, car519>; potted_plant: <>; truck: <>
+ car: < car519>; truck: <>
+ car: < car529, car519>; truck: <>
+ car: < car548>; potted_plant: <>; truck: <>
+
+
+ car: < car524>; truck: <>
+
+ car: < car524, car548, car529>; potted_plant: <>; truck: <>
+ car: < car524>; dining_table: <>; potted_plant: <>; truck: <>
+ bowl: <>; car: < car548>; dining_table: <>; potted_plant: <>; truck: < truck529>
+ bowl: <>; car: < car524>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car548>; truck: < truck529>
+ car: < car548>; tennis_racket: <>; truck: <>
+ car: < car548, car524>; truck: <>
+ car: < car548>; potted_plant: <>; truck: <>
+ car: < car548>; potted_plant: <>; truck: < truck529>
+ car: < car548, car524>; potted_plant: <>; truck: < truck529>
+ car: < car548>; potted_plant: <>; truck: < truck529>
+ car: < car548>; potted_plant: <>; truck: < truck529>
+ car: <>; dining_table: <>; potted_plant: <>; truck: < truck529>
+ car: < car548, car529>; potted_plant: <>; truck: <>
+ car: < car548>; potted_plant: <>; truck: < truck529>
+ car: < car548>; cell_phone: <>; kite: <>; potted_plant: <>; truck: < truck529>
+ car: < car548>; kite: <>; potted_plant: <>; truck: < truck529>
+ car: < car548>; potted_plant: <>; truck: <>
+ car: < car548>; potted_plant: <>; truck: <>
+
+ car: < car561>; potted_plant: <>; truck: <>
+ car: < car548, car561>; truck: <>
+ car: < car548, car561>; potted_plant: <>; truck: <>
+ car: < car548, car561>; truck: <>
+ car: < car548>; potted_plant: <>
+
+
+ car: < car561>; potted_plant: <>
+ car: < car548, car561>; potted_plant: <>
+ car: < car561>; potted_plant: <>
+ car: < car561>; potted_plant: <>
+ car: < car561>; potted_plant: <>
+ car: < car561>
+ car: < car558, car548>; potted_plant: <>
+ car: < car561, car548, car558>; person: <>; potted_plant: <>
+ car: < car548, car558>
+ car: < car558, car561, car548>; potted_plant: <>
+ car: < car558, car548, car561>; kite: <>
+ car: < car561, car548, car558>
+ car: < car561, car558>
+ car: < car558>; dining_table: <>; potted_plant: <>
+ car: < car548, car558>; cell_phone: <>; dining_table: <>; potted_plant: <>
+ car: < car548, car558>; dining_table: <>; potted_plant: <>
+ car: < car548, car561, car558>; sports_ball: <>
+ car: < car548, car558>; motorcycle: <>; potted_plant: <>; sports_ball: <>
+ car: < car548, car558>; kite: <>
+ car: < car558, car561>; potted_plant: <>
+ car: < car558>; potted_plant: <>
+ car: < car558>; potted_plant: <>
+ car: < car561, car558>
+ car: < car558>; potted_plant: <>
+ car: < car558>; person: <>
+ bus: <>; car: < car577, car558>; potted_plant: <>
+ bus: <>; car: < car558>; potted_plant: <>; truck: <>
+ car: < car558>; potted_plant: <>; truck: <>
+ car: < car578, car558>; potted_plant: <>; truck: <>
+ car: < car558>; kite: <>; potted_plant: <>
+ car: < car558>; potted_plant: <>
+ car: < car558>; person: <>; potted_plant: <>
+ car: < car558>; person: <>; potted_plant: <>; truck: <>
+ car: < car558>; potted_plant: <>; truck: <>
+
+ car: < car558>; potted_plant: <>
+ car: < car558>; person: <>; potted_plant: <>; truck: <>
+ car: < car558>; potted_plant: <>; truck: <>
+ car: < car558>; potted_plant: <>
+ car: < car558>
+ car: < car558>; potted_plant: <>
+ car: < car573, car558>; potted_plant: <>
+ car: < car558>
+ car: < car558, car573>
+ car: < car558, car573>; potted_plant: <>
+ car: < car573, car558>; potted_plant: <>
+ car: < car558, car573>; potted_plant: <>
+ car: < car558, car573>; potted_plant: <>
+ car: < car573, car558>; potted_plant: <>; truck: <>
+ car: < car558, car573>; potted_plant: <>; truck: <>
+ car: < car573, car558>; potted_plant: <>; truck: <>
+ car: < car573, car579, car558>; truck: <>
+ car: < car573, car558>; potted_plant: <>; train: <>; truck: <>
+ car: < car558, car573>; truck: <>
+ car: < car573, car558>; train: <>
+ car: < car573, car558>; truck: <>
+ car: < car573, car558>; potted_plant: <>
+ car: < car573, car580, car558>
+ car: < car573, car558>; truck: <>
+ car: < car573, car558>
+ car: < car573, car558>; potted_plant: <>
+ car: < car573, car580, car558>; potted_plant: <>; truck: <>
+ car: < car573, car580, car558>; potted_plant: <>
+ car: < car573, car580, car558>; dining_table: <>; potted_plant: <>; truck: <>
+ car: < car583, car573, car580, car558>
+ car: < car590, car583, car573>
+ car: < car583, car590, car580>; truck: <>
+ bus: <>; car: < car573, car580, car579, car590>
+ car: < car590, car580, car579, car573>; cell_phone: <>; potted_plant: <>
+ car: < car583, car590, car573>; potted_plant: <>
+ car: < car580, car573>; cell_phone: <>; potted_plant: <>; sports_ball: <>
+ car: < car580, car573>; potted_plant: <>; truck: <>
+ car: < car580, car579, car573>; potted_plant: <>
+ car: < car583, car573, car580, car590>; dining_table: <>; potted_plant: <>
+ car: < car580, car573>; dining_table: <>; potted_plant: <>
+ car: < car580, car583, car590>; potted_plant: <>
+ car: < car573, car580, car590>; dining_table: <>; potted_plant: <>
+ bus: <>; car: < car580, car583, car586>; potted_plant: <>
+ car: < car580, car583, car590, car573>; truck: <>
+ bus: <>; car: < car580, car583, car590, car573>; truck: <>
+ bus: <>; car: < car583, car573, car590, car580>
+ bus: <>; car: < car580, car583, car573, car590>
+ car: < car573, car596, car590, car583, car580>; skateboard: <>
+ bus: <>; car: < car573, car583, car580, car590, car586>; truck: <>
+ bus: <>; car: < car583, car573, car580>; motorcycle: <>; truck: < truck590>
+ car: < car580, car583, car590, car573>; potted_plant: <>; truck: <>
+ car: < car583, car580, car573>; potted_plant: <>; truck: < truck590>
+ car: < car580, car598, car573>; potted_plant: <>; truck: <>
+ car: < car583, car573, car580>; potted_plant: <>; truck: <>
+ car: < car600, car583, car573, car580>; truck: <>
+ car: < car573, car583, car580, car600>; potted_plant: <>; truck: <>
+ car: < car600, car590, car573, car583, car580>
+ car: < car600, car573, car583, car580>
+ car: < car573, car583, car600, car597>; potted_plant: <>
+ car: < car573, car583, car580>; potted_plant: <>
+ car: < car583, car573, car580>; potted_plant: <>; truck: <>
+ car: < car583, car600, car573>
+ car: < car598, car580, car583>
+ car: < car600, car583, car580>; truck: <>
+ car: < car583, car600>
+ car: < car600, car583, car590>
+ car: < car583, car600, car580>; truck: < truck590>
+ car: < car583, car600, car580, car611>
+ car: < car583, car600, car580>
+ car: < car583, car600, car580>; potted_plant: <>; truck: <>
+ car: < car583, car600, car580>; potted_plant: <>
+ car: < car600, car583, car590, car580>; potted_plant: <>
+ car: < car583, car600, car580>; potted_plant: <>; truck: <>
+ car: < car583, car580, car600>; person: <>; potted_plant: <>; truck: <>
+ car: < car583, car600, car580>; potted_plant: <>
+ car: < car583, car580, car600>; person: <>; potted_plant: <>
+ car: < car583, car600, car580>; truck: <>
+ car: < car600, car583, car580>
+ car: < car583>
+ car: < car600, car580, car583>
+ car: < car600, car583>
+ car: < car600, car583>
+ car: < car600, car583>
+ car: < car600, car583>; potted_plant: <>
+ car: < car600, car583>; potted_plant: <>
+ car: < car600, car583>; potted_plant: <>
+ car: < car583, car600>
+ car: < car583, car600>
+ car: < car600, car583>
+ car: < car583>
+ car: < car583>; truck: <>
+ car: < car583>; potted_plant: <>; truck: <>
+ car: < car607, car583>; kite: <>; potted_plant: <>
+ car: < car583, car607>; potted_plant: <>
+ car: < car583, car607>
+ car: < car607, car583>
+ car: < car583, car607>
+ car: < car607, car625, car583>; truck: <>
+ car: < car583, car607>; truck: <>
+ bus: <>; car: < car583, car607>; truck: <>
+ car: < car583, car607>; truck: <>
+ bus: <>; car: < car583, car607>; truck: <>
+ car: < car607, car583>; potted_plant: <>; truck: <>
+ car: < car629, car607, car583>; truck: <>
+ car: < car629, car607, car583>; potted_plant: <>; truck: <>
+ car: < car629, car583>; kite: <>; potted_plant: <>
+ car: < car629, car611, car607, car583>; kite: <>; potted_plant: <>
+ car: < car607, car629, car611, car583>; kite: <>; person: <>; potted_plant: <>; truck: <>
+ car: < car629, car607, car628, car583>; motorcycle: <>; potted_plant: <>
+ car: < car607, car629, car611, car583>; potted_plant: <>
+ car: < car629, car611, car583>; potted_plant: <>
+ car: < car611, car629, car607, car583>; potted_plant: <>
+ car: < car583, car611, car629, car607, car618>; potted_plant: <>
+ car: < car629, car611, car607, car583, car624>; potted_plant: <>
+ boat: <>; car: < car611, car629, car607, car583>; potted_plant: <>
+ car: < car607, car583, car629>; truck: < truck618>
+ car: < car629, car624, car583, car635, car607>
+ boat: <>; bus: < bus618>; car: < car629, car611, car637, car607, car583>; truck: <>
+ bus: <>; car: < car629, car611, car635, car624, car583, car607>; truck: <>
+ car: < car629, car607, car583>; truck: < truck618>
+ car: < car629, car611, car607, car583>; potted_plant: <>; truck: < truck618>
+ boat: <>; bus: <>; car: < car629, car611, car624, car583, car607, car618>; potted_plant: <>; truck: <>
+ boat: <>; bus: <>; car: < car629, car583, car641, car607>; potted_plant: <>; truck: < truck618>
+ bus: <>; car: < car583, car607, car641, car629>; potted_plant: <>; truck: <>
+ bus: <>; car: < car629, car640, car607, car583>; potted_plant: <>; truck: < truck618>
+ bus: <>; car: < car641, car629, car607, car583, car640>; cell_phone: <>; truck: <>
+ bus: <>; car: < car629, car583, car644, car607, car641, car640>; potted_plant: <>; truck: <>
+ bus: <>; car: < car607, car583, car618>; potted_plant: <>; truck: <>
+ bus: <>; car: < car583, car624, car607>; potted_plant: <>; truck: < truck618>
+ bus: <>; car: < car624, car607, car583>; truck: < truck640>
+ bus: <>; car: < car644, car583, car607, car624, car640>; potted_plant: <>; truck: <>
+ bus: <>; car: < car629, car624, car607>; truck: <>
+ bus: <>; car: < car624, car607, car644, car640, car632>; truck: <>
+ bus: <>; car: < car629, car640, car624, car607, car632, car644>; potted_plant: <>; truck: <>
+ bus: <>; car: < car629, car624, car644, car607>; truck: <>
+ bus: <>; car: < car607, car640, car644, car632, car629>; truck: <>
+ bus: <>; car: < car607, car629, car644, car624, car632>; truck: <>
+ bus: <>; car: < car644, car624, car607, car629, car641, car632>; truck: <>
+ bus: <>; car: < car607, car629, car624, car632>; truck: <>
+ bus: <>; car: < car624, car629, car607, car632>; truck: < truck640>
+ bus: <>; car: < car632, car618, car624, car629, car607>; truck: <>
+ bus: <>; car: < car607, car624, car629, car618, car632>; truck: <>
+ bus: <>; car: < car607, car624, car632, car618, car629>; truck: <>
+ bus: <>; car: < car607, car624, car618, car629>; truck: <>
+ bus: <>; car: < car624, car632, car618, car607, car629>; truck: <>
+ bus: <>; car: < car624, car632, car607, car629>; potted_plant: <>; truck: < truck618>
+ bus: <>; car: < car624, car640, car607>; potted_plant: <>; truck: < truck618>
+ bus: <>; car: < car607, car624, car632, car640>; potted_plant: <>; truck: < truck618>
+ bus: <>; car: < car632, car618, car659, car624, car607>; person: <>; potted_plant: < potted_plant658>; truck: <>
+ bus: <>; car: < car632, car624, car607>; potted_plant: <>; truck: < truck618>
+ bus: <>; car: < car632, car624, car607>; kite: <>; potted_plant: <>; truck: < truck618>
+ boat: <>; bus: <>; car: < car632, car644, car624, car607>; potted_plant: <>; truck: < truck618>
+ boat: <>; bus: <>; car: < car632, car624, car618, car662, car607>; potted_plant: <>; truck: <>
+ bus: <>; car: < car632, car662, car624, car644, car618, car607>; potted_plant: <>; truck: <>
+ bus: <>; car: < car632, car644, car662, car624, car607>; potted_plant: <>; truck: < truck618>
+ bus: <>; car: < car632, car662, car644, car618, car624, car607>; potted_plant: <>; truck: <>
+ boat: <>; bus: <>; car: < car644, car624, car618, car632, car607>; dining_table: <>; potted_plant: <>; truck: <>
+ bus: <>; car: < car632, car644, car618, car607, car624>; potted_plant: <>; truck: <>
+ bus: <>; car: < car632, car644, car662, car618, car624>; potted_plant: <>
+ car: < car632, car662, car644, car624>; potted_plant: <>
+ car: < car644, car662, car624, car632>; potted_plant: <>; truck: <>
+ car: < car662, car670, car632, car618, car644, car624>; potted_plant: <>; truck: <>
+ car: < car632, car662, car644, car624>; truck: < truck618>
+ car: < car632, car624, car618, car662, car644>; kite: <>; potted_plant: <>; truck: <>
+ car: < car632, car662, car624, car644>; kite: <>; truck: < truck618>
+ car: < car632, car644, car662, car618, car624>; kite: <>; truck: <>
+ car: < car632, car644, car662, car624>; kite: <>; potted_plant: <>; truck: < truck618>
+ car: < car632, car662, car644, car624>; kite: <>; truck: < truck618>
+ car: < car644, car662, car624>; kite: <>; truck: <>
+ car: < car662, car644, car624>; kite: <>; truck: <>
+ car: < car644, car624, car662>; kite: <>; truck: <>
+ car: < car644, car624>; kite: <>; potted_plant: <>; truck: <>
+ car: < car644, car624>; kite: <>; potted_plant: < potted_plant658>; truck: <>
+ car: < car644, car662, car624, car632>; kite: <>; potted_plant: <>; truck: <>
+ car: < car632, car644, car624, car662>; potted_plant: <>; train: <>; truck: <>
+ car: < car632, car644, car662, car624>; truck: <>
+ car: < car632, car624, car644>; truck: <>
+ car: < car624, car644, car632>
+ boat: <>; car: < car644, car624, car632>
+ car: < car624, car632, car644>
+ car: < car683, car644, car632>; motorcycle: <>
+ car: < car632, car667, car644>; potted_plant: <>
+ car: < car632, car667, car644>; potted_plant: <>; truck: <>
+ car: < car632, car667, car644>; potted_plant: <>
+ car: < car632, car644, car667, car670>; potted_plant: <>
+ car: < car632, car667, car644, car670>
+ car: < car632, car677, car667, car644>
+ car: < car632, car667, car677, car644>; cell_phone: <>
+ car: < car632, car644, car677, car667>; potted_plant: <>
+ car: < car632, car667, car644, car677>; mouse: <>
+ car: < car632, car644, car677>; kite: <>
+ car: < car632, car667, car644, car677>; kite: <>
+ boat: <>; car: < car667, car644>; kite: <>
+ car: < car667, car644>; kite: <>
+ car: < car667, car677>; kite: <>
+ car: < car667, car677>
+ car: < car667, car677, car679>
+ car: < car677, car667>
+ car: < car667, car677>; potted_plant: <>
+ car: < car677, car667, car671>
+ car: < car667, car677>
+ car: < car667, car677, car671>; potted_plant: <>
+ car: < car677, car667>; potted_plant: <>
+ car: < car671, car677, car667>; potted_plant: <>
+ car: < car677, car671, car685>
+ car: < car677, car667, car685>
+ car: < car685, car677, car667>; kite: <>
+ car: < car667, car677, car685>
+ car: < car677, car671, car685, car667>
+ car: < car685, car667>
+ car: < car685, car667>
+ car: < car685, car677, car667>
+ car: < car685, car677, car667>
+ car: < car685, car667, car677>
+ car: < car685, car667, car677>
+ car: < car685, car667, car677>
+ car: < car667, car685, car677>
+ car: < car667, car685>
+ car: < car667, car685>
+ car: < car667, car685>
+ car: < car667, car685, car677>; potted_plant: <>
+ car: < car667, car685>; potted_plant: <>
+ car: < car667, car685, car677>; potted_plant: <>
+ car: < car685, car667, car677>; potted_plant: <>
+ car: < car677, car685, car667>; potted_plant: <>
+ car: < car667, car685, car677>; potted_plant: <>
+ car: < car677, car667>; potted_plant: <>
+ car: < car685, car677, car667>; person: <>; potted_plant: <>
+ car: < car685, car667, car677>; person: <>; potted_plant: <>
+ car: < car685, car667, car677>; potted_plant: <>
+ car: < car689, car703, car667>; potted_plant: <>
+ car: < car667, car685, car689>; potted_plant: <>
+ car: < car667, car677>; potted_plant: <>
+ car: < car685, car667, car677>; potted_plant: <>
+ car: < car685, car667, car689, car699, car677>; potted_plant: <>
+ car: < car697, car685, car667, car677>; potted_plant: <>
+ car: < car685, car697, car699, car667, car677>; potted_plant: <>
+ car: < car667, car685, car677>; potted_plant: <>
+ car: < car699, car677, car667>; potted_plant: <>
+ car: < car697, car667, car699, car677>; potted_plant: <>
+ car: < car689, car699, car677, car667, car697>; potted_plant: <>
+ car: < car697, car699, car677, car667>; potted_plant: <>
+ car: < car699, car677, car697, car667>; potted_plant: <>

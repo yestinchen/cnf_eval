@@ -1,0 +1,5 @@
+(a >= 20 or a >= 20) and (a >= 20 or a >= 20) and (a >= 20 or b >= 20)
+(b >= 20 or b >= 20) and (e >= 20 or d >= 20) and (e >= 20 or b >= 20)
+(d >= 20 or c >= 20) and (c >= 20 or c >= 20) and (d >= 20 or e >= 20)
+(e >= 20 or d >= 20) and (c >= 20 or c >= 20) and (d >= 20 or d >= 20)
+(e >= 20 or e >= 20) and (e >= 20 or e >= 20) and (e >= 20 or e >= 20)

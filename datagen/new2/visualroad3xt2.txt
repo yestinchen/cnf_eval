@@ -1,0 +1,901 @@
+
+
+ boat: <>; car: < car1, car2>; person: < person4>; truck: < truck5, truck6>; vase: <>
+ bus: <>; car: < car1, car2>; person: < person4>; truck: < truck5, truck6>; vase: <>
+ bus: <>; car: < car1, car2>; person: < person4>; truck: < truck5>; vase: <>
+ bus: <>; car: < car1, car2, car3>; person: < person4>; truck: < truck5>; vase: <>
+ bus: <>; car: < car2, car1>; person: < person12, person4>; truck: < truck5>; vase: <>
+ boat: <>; car: < car1, car2>; person: < person12, person4>; truck: < truck5>
+ boat: <>; car: < car2, car1>; person: < person12, person13, person4>; truck: < truck5>
+ boat: <>; car: < car2, car1>; person: < person12, person13, person4>; truck: < truck5>
+ bus: <>; car: < car2, car1>; person: < person12, person13, person4>; truck: < truck5>; umbrella: <>; vase: <>
+ car: < car2, car1>; person: < person12, person13, person4>; truck: < truck5>; vase: <>
+ bench: <>; boat: <>; car: < car2, car1>; chair: <>; person: < person12, person13, person4>; truck: < truck5>
+ bus: <>; car: < car2, car1>; person: < person12, person13>; truck: < truck5>
+ bus: <>; car: < car2, car1>; chair: <>; person: < person12, person13>; truck: < truck5>
+ boat: <>; bus: <>; car: < car2, car1>; fire_hydrant: <>; person: < person12, person13>; truck: < truck5>; vase: <>
+ car: < car2, car1>; person: < person12, person13>; truck: < truck5>; vase: <>
+ car: < car2>; fire_hydrant: <>; person: < person13, person12>; truck: < truck5, truck1>; vase: <>
+ car: < car2, car1>; person: < person13, person12>; truck: < truck5>; umbrella: <>; vase: <>
+ car: < car1, car2>; person: < person13, person12>; truck: < truck5>; umbrella: <>; vase: <>
+ car: < car2, car1>; fire_hydrant: <>; person: < person12, person13>; truck: <>; umbrella: <>
+ car: < car2, car1>; person: < person12, person13>; truck: < truck5>; umbrella: <>
+ car: < car2, car1>; person: < person13, person12>; truck: < truck5>; umbrella: <>
+ bus: <>; car: < car1, car2>; person: < person13, person12, person4>; truck: < truck5>; umbrella: <>
+ bus: <>; car: < car1>; person: < person13, person12, person4>; truck: <>; umbrella: <>; vase: <>
+ car: < car1>; person: < person13, person12>; truck: < truck5, truck22>; umbrella: <>; vase: <>
+ car: < car1>; person: < person13, person12>; truck: < truck22, truck5>; umbrella: <>; vase: <>
+ bus: <>; car: < car1>; person: < person13, person12>; truck: < truck22>; umbrella: <>; vase: <>
+ car: < car1>; person: < person12, person13>; toilet: <>; truck: < truck22>; umbrella: <>; vase: <>
+ car: < car1>; person: < person13, person12>; toilet: <>; truck: <>; umbrella: <>; vase: <>
+ car: < car1>; person: < person13, person12>; toilet: <>; truck: <>; umbrella: <>; vase: <>
+ bus: <>; car: < car1>; person: < person13, person12>; toilet: <>; truck: <>; umbrella: <>; vase: < vase28>
+ bus: <>; car: < car1>; person: < person13, person12>; toilet: <>; truck: <>; umbrella: <>; vase: < vase28>
+ car: < car1>; person: < person13, person12>; toilet: <>; truck: <>; umbrella: <>; vase: < vase28>
+ car: < car1>; person: < person12, person13>; toilet: <>; truck: <>; vase: < vase28>
+ car: < car1>; person: < person12, person13>; toilet: <>; truck: <>; umbrella: <>; vase: < vase28>
+ car: < car1>; person: < person12, person13>; toilet: <>; truck: <>; vase: < vase28>
+ car: < car1>; person: < person12, person13>; toilet: <>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person12, person13, person4>; toilet: <>; truck: < truck5>; vase: < vase28>
+ car: < car1, car2>; person: < person12, person13, person4>; toilet: <>; truck: < truck5, truck31>; vase: < vase28>
+ car: < car2, car31, car1>; person: < person12, person13>; toilet: <>; traffic_light: <>; truck: < truck5>; vase: < vase28>
+ boat: <>; car: < car1>; person: < person13, person12, person4>; toilet: <>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person13, person12, person4>; toilet: <>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person13, person12>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person13, person4>; truck: < truck5>; vase: < vase28>
+ boat: <>; car: < car1>; person: < person13, person4>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person13, person4>; truck: <>; vase: < vase28>
+ car: < car1>; person: < person13, person4>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person13>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person13>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person13>; truck: <>; vase: < vase28>
+ car: < car1>; person: < person13>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person12, person13>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person12, person13>; truck: < truck5>; vase: < vase28>
+ car: <>; person: < person12, person13>; truck: < truck5, truck1>; vase: < vase28>
+ car: <>; fire_hydrant: <>; person: < person13, person12>; truck: < truck5>; vase: < vase28>
+ car: < car1>; fire_hydrant: <>; person: < person12, person13>; truck: < truck5>; vase: < vase28>
+ car: < car1>; fire_hydrant: <>; person: < person12, person13>; truck: < truck5>; vase: <>
+ car: < car1, car5>; fire_hydrant: <>; person: < person13, person12>; truck: <>; vase: <>
+ car: < car1>; fire_hydrant: <>; person: < person12>; truck: < truck5>; vase: < vase28>
+ car: < car1>; person: < person13>; truck: < truck5>; vase: < vase28>
+ car: <>; person: < person13>; truck: < truck5>; vase: < vase28>
+ car: <>; person: < person13>; truck: < truck5, truck33>; vase: < vase28>
+ car: < car5>; person: < person13, person12>; truck: < truck33, truck34>; vase: < vase28>
+ car: < car5>; person: < person13, person12>; truck: < truck34, truck33>; vase: < vase28>
+ car: < car5>; person: < person13, person12>; truck: < truck33>; vase: < vase28>
+ car: <>; person: < person36, person13, person12>; truck: < truck33, truck5, truck1>; vase: < vase28>
+ car: <>; person: < person13, person36, person12>; truck: < truck34, truck33, truck1>; vase: < vase28>
+ car: <>; person: < person36, person13, person12>; truck: < truck33>; vase: < vase28>
+ bus: <>; car: <>; person: < person13, person36, person12>; truck: < truck33>; vase: < vase28>
+ bus: <>; car: < car1>; person: < person12, person36, person13>; truck: < truck33>; vase: < vase28>
+ car: <>; fire_hydrant: <>; person: < person36, person12>; truck: < truck33>; vase: < vase28>
+ car: < car1>; fire_hydrant: <>; person: < person36, person12>; truck: < truck33>; umbrella: <>; vase: < vase28>
+ car: < car1>; fire_hydrant: <>; person: < person36, person12>; truck: < truck33>; vase: <>
+ car: < car1>; person: < person36, person12>; truck: < truck33>; vase: <>
+ car: < car1>; person: < person36, person12>; truck: < truck33>; vase: <>
+ car: < car1>; person: < person36, person12>; truck: < truck33>; vase: < vase28>
+ boat: <>; car: < car1>; person: < person36, person13, person12>; truck: < truck33>; vase: < vase28>
+ car: < car39, car5>; person: < person36, person13, person12>; truck: < truck1>; vase: <>
+ car: < car39, car5, car1>; person: < person12, person36, person13>; truck: <>; vase: <>
+ car: < car39, car5, car40, car1>; person: < person12, person36, person13>; truck: <>; vase: <>
+ car: < car39, car40, car5, car1>; person: < person13, person36, person12>; truck: <>; vase: <>
+ car: < car39, car5, car40, car1>; person: < person13, person36, person12>; truck: <>; vase: <>
+ car: < car39, car5, car1>; person: < person13, person36, person12>; truck: <>; vase: <>
+ car: < car5, car39>; person: < person13, person36, person12>; truck: < truck1>
+ car: < car39, car5>; person: < person13, person36, person12>; truck: <>; umbrella: <>; vase: < vase28>
+ car: < car39, car5>; person: < person36, person13, person12>; truck: <>; umbrella: <>; vase: < vase28>
+ car: < car39, car5>; person: < person36, person13, person12>; truck: < truck1>; vase: <>
+ car: < car39, car1, car5>; person: < person12, person36, person13>; truck: <>; vase: <>
+ car: < car39, car1, car5>; person: < person36, person13, person12>; truck: <>; vase: < vase28>
+ car: < car39, car5>; person: < person36, person13, person12>; truck: <>; vase: < vase28>
+ car: < car39, car1>; person: < person36, person13, person12>; truck: < truck5>; vase: < vase28>
+ car: < car39, car1>; person: < person12, person36, person13>; truck: <>; vase: <>
+ car: < car39, car1>; person: < person12, person36, person13>; truck: <>; vase: <>
+ car: < car1, car39>; person: < person12, person36, person13>; truck: <>; vase: <>
+ car: < car1, car39>; person: < person12, person36>; truck: <>
+ car: < car39, car1>; person: < person36, person13, person12>; truck: <>
+ car: < car1, car39>; person: < person36, person12, person13>; truck: <>
+ car: < car39>; person: < person12, person36, person13>; truck: <>
+ car: < car1, car39, car5>; person: < person36, person13, person12>; truck: <>
+ car: < car1, car39>; person: < person36, person13, person12>; truck: < truck5>
+ car: < car1, car39>; person: < person13, person36, person12>; truck: <>
+ car: < car1>; person: < person36, person13, person12>; truck: <>; vase: <>
+ car: < car1>; person: < person36, person12, person13>; truck: <>; vase: <>
+ car: < car39, car1>; person: < person36, person12, person13>; truck: <>
+ car: < car39, car1>; person: < person36, person12, person13>; truck: < truck5>
+ car: < car1, car5>; person: < person36, person12, person13>; truck: <>
+ car: < car1>; person: < person36, person12, person13>; suitcase: <>; truck: < truck5>
+ bus: <>; car: < car1>; person: < person36, person12, person13>; suitcase: <>; truck: < truck5>
+ car: <>; person: < person36, person12, person13>; suitcase: <>; truck: <>
+ car: <>; person: < person36, person12, person13>; suitcase: <>; truck: <>
+ bus: <>; car: <>; person: < person12, person13, person36>; suitcase: <>; truck: <>
+ bus: <>; car: <>; person: < person36, person12, person13>; suitcase: <>; truck: < truck5>
+ bus: < bus5>; car: <>; fire_hydrant: <>; person: < person36, person12, person13>; truck: <>
+ car: <>; fire_hydrant: <>; person: < person12, person36, person13>; suitcase: <>; truck: < truck5>
+ car: < car48>; person: < person12, person36, person13>; suitcase: <>; truck: < truck5>
+ car: < car48>; fire_hydrant: <>; person: < person36, person12, person13>; truck: <>
+ car: < car48>; person: < person36, person12, person13>; suitcase: <>; truck: < truck5>
+ car: < car48, car5>; chair: <>; person: < person36, person13, person12>; suitcase: <>; truck: <>
+ car: < car48, car5>; person: < person36, person12, person13>; suitcase: <>; truck: <>
+ backpack: <>; car: < car48, car5>; handbag: <>; person: < person36, person12, person13>; suitcase: <>; truck: <>
+ car: < car48>; handbag: <>; person: < person36, person12, person13>; suitcase: <>; truck: < truck5>; vase: <>
+ car: < car48, car5>; person: < person36, person12, person13>; suitcase: <>; truck: <>; umbrella: <>; vase: <>
+ bus: <>; car: <>; person: < person36, person12, person13>; suitcase: <>; truck: <>; umbrella: <>
+ car: <>; person: < person12, person13, person36>; suitcase: <>; truck: <>
+ car: <>; person: < person12, person13, person36>; suitcase: <>; truck: <>
+ car: < car48>; person: < person12, person13, person36>; truck: < truck54>; vase: <>
+ car: < car48>; person: < person12, person13, person36>; truck: < truck5, truck54>; vase: <>
+ bus: <>; car: < car48>; person: < person12, person13, person36>; truck: <>; vase: < vase56>
+ bus: <>; car: <>; person: < person12, person13, person36>; truck: < truck54>; vase: < vase56>
+ car: <>; person: < person12, person36, person13>; truck: < truck54>; vase: < vase56>
+ car: <>; person: < person36, person12, person13>; truck: < truck54>; vase: <>
+ bus: <>; car: <>; person: < person12, person36, person13>; truck: < truck54>; vase: <>
+ car: <>; person: < person12, person36, person13>; truck: < truck54>; vase: <>
+ car: <>; person: < person12, person36, person13>; truck: < truck54, truck58>; vase: < vase56>
+ car: < car48>; person: < person12, person36, person13>; truck: < truck58>; vase: < vase56>
+ car: <>; person: < person36, person13, person12>; truck: <>; vase: <>
+ car: < car48>; person: < person12, person13, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person12, person13, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person12, person13, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person12, person13, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person13, person12, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person13, person12, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person13, person36, person12>; truck: <>; vase: <>
+ bicycle: <>; car: < car48>; person: < person13, person12, person36>; truck: <>
+ car: < car48>; person: < person13, person12, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person13, person12, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person12, person13, person36>; truck: <>
+ car: < car48>; person: < person12, person13, person36>; truck: <>; vase: <>
+ car: < car48>; person: < person12, person36, person63, person13>; vase: <>
+ car: < car48>; person: < person12, person13, person36, person63>; vase: <>
+ car: < car48>; person: < person12, person13, person36, person63>; vase: <>
+ car: < car48>; person: < person12, person13, person36, person63>; vase: <>
+ car: < car48>; person: < person12, person13, person36, person63>; vase: <>
+ car: < car48>; person: < person12, person13, person36, person63>; vase: <>
+ car: < car48>; handbag: <>; person: < person12, person36, person63>; vase: <>
+ car: <>; person: < person13, person12, person64>; vase: <>
+ car: <>; person: < person13, person12, person63, person64, person36>; vase: <>
+ car: < car48>; fire_hydrant: <>; person: < person13, person12, person36, person63>; vase: <>
+ car: < car48>; person: < person12, person13, person63, person36>; vase: <>
+ car: < car48>; handbag: <>; person: < person12, person13, person64, person36, person63>
+ car: < car48>; person: < person13, person12, person36, person63>; vase: <>
+ car: < car48>; person: < person12, person13, person63, person36>; vase: <>
+ car: < car48>; person: < person12, person13, person36, person63>; truck: <>; vase: <>
+ car: < car48>; person: < person12, person13, person36, person63>; truck: <>; vase: <>
+ car: < car65>; person: < person12, person13, person36, person63>; vase: <>
+ car: < car65>; person: < person12, person13>; truck: <>; vase: <>
+ car: < car65>; person: < person12, person13>; truck: <>; vase: <>
+ car: < car65>; person: < person12, person13, person64, person36>; umbrella: <>; vase: <>
+ car: < car65>; person: < person12, person36, person13, person64>; truck: <>; umbrella: <>; vase: <>
+ car: < car65, car48>; person: < person12, person36, person13>; vase: <>
+ car: < car65>; person: < person12, person36, person13>; vase: <>
+ car: < car65, car48>; person: < person12, person36, person13>; vase: <>
+ car: < car65>; person: < person12, person36, person13>; truck: <>
+ car: < car65>; person: < person12, person13, person36>; vase: <>
+ car: < car65, car48>; person: < person12, person13, person63>; vase: <>
+ car: <>; person: < person12, person13, person63>
+ car: <>; person: < person12, person13, person36, person63>
+ car: <>; person: < person13, person12, person36, person63>; skis: <>
+ car: <>; person: < person13, person12, person36, person63>
+ car: <>; person: < person12, person36, person13>; skis: <>; vase: <>
+ car: <>; person: < person12, person36, person13>
+ car: < car48>; person: < person12, person13, person36>
+ car: < car48>; fire_hydrant: <>; person: < person12, person13, person36>
+ car: < car48>; person: < person13, person12, person36>
+ car: < car48>; person: < person13, person12, person36>
+ airplane: <>; car: < car48>; person: < person13, person12, person36>
+ car: < car48>; person: < person36, person13, person12>
+ airplane: <>; car: < car48>; person: < person13, person12, person36>; skis: <>; truck: <>
+ car: < car48>; person: < person36, person13, person12, person63>; truck: <>
+ car: < car48>; person: < person12, person13, person63, person36>; truck: <>
+ car: < car48>; person: < person13, person12, person63, person36>; skis: <>; truck: <>
+ car: < car48>; person: < person12, person36, person13, person63>; skis: <>; truck: <>
+ car: < car48>; person: < person12, person13, person63, person36>; skis: <>; truck: <>
+ car: < car48>; person: < person13, person12, person63, person36>; truck: <>
+ car: < car48>; person: < person13, person12, person36, person63>; truck: <>
+ car: < car48>; person: < person13, person36, person12, person63>; truck: <>
+ car: < car48>; person: < person13, person36, person12, person63>; truck: <>; vase: <>
+ car: < car48>; person: < person36, person13, person12, person63>; truck: <>; umbrella: <>; vase: <>
+ car: < car48>; person: < person36, person13, person12, person63>; skateboard: <>; snowboard: <>; truck: <>; umbrella: <>
+ backpack: <>; car: < car48>; person: < person36, person13, person12, person63>; skateboard: <>; truck: <>; vase: <>
+ backpack: <>; car: < car48>; person: < person36, person12, person63, person13>; truck: <>; vase: <>
+ bicycle: <>; car: < car48>; fire_hydrant: <>; person: < person36, person12, person13, person63>; truck: <>; vase: < vase74>
+ car: < car48>; fire_hydrant: <>; person: < person36, person12, person63>; skateboard: <>; vase: < vase74>
+ bicycle: <>; car: < car48>; person: < person36, person12, person63>; truck: <>
+ car: < car48>; person: < person36, person12, person63>; truck: <>
+ car: < car48>; person: < person36, person13, person12, person63>
+ car: < car48>; person: < person36, person12, person13, person63>; truck: <>; vase: <>
+ car: < car48>; person: < person36, person12, person13, person63>; truck: <>; vase: <>
+ car: < car48, car79>; fire_hydrant: <>; person: < person36, person12, person13, person63>; truck: <>; vase: < vase74>
+ car: < car48, car79>; person: < person36, person12, person13, person63>; truck: <>; vase: < vase74>
+ car: < car79, car48>; person: < person36, person12, person63, person13>; truck: <>; vase: <>
+ car: < car48>; person: < person12, person36, person63, person13>; truck: <>; vase: <>
+ car: < car82>; person: < person36, person12, person63, person13>; truck: <>; vase: < vase74>
+ car: < car82, car48, car83>; person: < person36, person12, person13, person63>; truck: <>; vase: < vase74>
+ car: < car48, car82, car83>; person: < person36, person12, person63, person13>; truck: <>; vase: < vase74>
+ car: < car48, car83, car82>; person: < person36, person12, person13, person63>; truck: <>; vase: < vase74>
+ car: < car48, car83, car82>; handbag: <>; person: < person36, person12, person13, person63>; truck: <>; vase: < vase74>
+ car: < car48, car83, car82>; handbag: <>; person: < person36, person12, person13, person63>; truck: <>; vase: < vase74>
+ car: < car48, car83, car82>; person: < person36, person13, person12, person63>; truck: <>; vase: <>
+ car: < car83, car48, car82>; person: < person12, person13, person63>; truck: <>; vase: <>
+ car: < car83, car48>; handbag: <>; person: < person13, person12, person63>; truck: < truck82>
+ car: < car48>; person: < person13, person12, person63>; truck: < truck82>; vase: <>
+ car: < car83, car48, car82>; person: < person13, person63, person12>; truck: <>; vase: <>
+ car: < car83, car82, car48>; person: < person13, person12, person63>; truck: < truck88>; vase: <>
+ car: < car83, car82>; person: < person13, person12, person63>; truck: < truck88>; vase: <>
+ car: < car83, car48>; person: < person13, person12, person63>; truck: < truck82, truck88>
+ car: < car83, car48>; person: < person13, person12, person63>; truck: < truck88>; vase: <>
+ car: < car83, car48>; person: < person13, person63, person12>; truck: < truck88>
+ car: < car48>; person: < person12, person13, person63>; truck: < truck88>
+ car: < car48, car82>; person: < person13, person12, person63>; truck: < truck88>
+ car: < car82, car48>; person: < person12, person13, person63>; truck: < truck88>
+ car: < car82>; person: < person12, person13, person36, person63>; truck: < truck88>
+ car: < car48>; person: < person12, person13, person63>; truck: < truck88, truck82>
+ car: < car48>; person: < person12, person13, person63>; truck: < truck82, truck88>
+ car: < car48>; person: < person12, person13, person63>; truck: < truck82, truck88>
+ car: <>; person: < person12, person13, person63>; truck: < truck88>
+ car: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car79>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car79>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car79, car48>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car48>; person: < person13, person12, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12, person63>; truck: < truck88>; vase: < vase74>
+ car: < car48>; person: < person13, person12, person63>; truck: < truck88>; vase: <>
+ car: < car48>; person: < person13, person12, person63>; truck: < truck88>; vase: <>
+ car: < car79>; person: < person13, person12, person63>; truck: < truck88>; vase: <>
+ car: < car79>; person: < person13, person12, person63>; truck: < truck88>
+ car: < car79>; person: < person13, person12, person63>; truck: < truck88>; vase: <>
+ car: < car79, car48>; person: < person12, person13, person63>; truck: < truck88>
+ car: < car79, car48>; person: < person12, person13, person63>; truck: < truck88>; vase: <>
+ car: < car48, car79>; person: < person12, person13, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: < car48>; person: < person12, person13, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck88>; umbrella: <>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82, car48>; person: < person13, person12, person63>; truck: < truck88>; umbrella: <>; vase: < vase74>
+ car: < car82>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car48>; person: < person13, person12, person63>; truck: < truck88>; umbrella: <>; vase: < vase74>
+ car: <>; person: < person13, person12, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13, person63>; truck: < truck88, truck91>; vase: < vase74>
+ car: < car48, car82>; person: < person12, person13, person63>; truck: < truck88, truck91>; vase: < vase74>
+ car: < car82, car48>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82>; fire_hydrant: <>; person: < person13, person63, person12>; truck: < truck88>; umbrella: <>; vase: < vase74>
+ car: <>; person: < person13, person12, person63>; truck: < truck88>; umbrella: <>; vase: < vase74>
+ car: < car48>; person: < person13, person12, person63>; truck: < truck88, truck91>; vase: < vase74>
+ car: < car48, car79>; person: < person13, person12, person63>; truck: < truck88>; vase: < vase74>
+ car: < car48, car79>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car48, car82, car79>; person: < person12, person13, person63>; truck: <>; vase: < vase74>
+ car: < car82, car79>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82, car79>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82, car79>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; fire_hydrant: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; fire_hydrant: <>; person: < person12, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; fire_hydrant: <>; person: < person12, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; fire_hydrant: <>; person: < person12, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; fire_hydrant: <>; person: < person12, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: < car82>; fire_hydrant: <>; person: < person12, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; chair: <>; fire_hydrant: <>; person: < person12, person13, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; chair: <>; person: < person13, person12, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: < car82>; chair: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82>; chair: <>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13, person63>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck82, truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person63>; truck: < truck88, truck82>; vase: < vase74>
+ car: <>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ boat: <>; car: <>; person: < person12, person13>; truck: < truck82, truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck82, truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck82, truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: < truck82, truck88>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: < truck88>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: <>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: <>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: <>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: <>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: <>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: <>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12>; truck: < truck88>; vase: <>
+ car: < car82, car100>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12>; truck: < truck88>
+ car: < car82>; person: < person12, person13>; truck: < truck88>
+ car: < car82>; person: < person13, person12>; truck: < truck88>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car102, car82>; person: < person13, person12>; truck: < truck88>
+ car: < car102, car82>; person: < person12, person13>; truck: < truck88>
+ car: <>; fire_hydrant: <>; person: < person12, person13>; truck: < truck88, truck82>
+ car: < car82>; person: < person13, person12>; truck: < truck88>
+ car: <>; person: < person13, person12>; truck: < truck88, truck82>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12, person105>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12, person105>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12, person105>; truck: <>; vase: < vase74>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: < truck88>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: < truck88>
+ car: < car82>; person: < person12, person13>; truck: < truck88>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: < truck88>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: <>; vase: < vase74>
+ car: < car116, car82>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car82, car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car82, car116>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car116, car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car82, car116>; person: < person12>; truck: < truck88>; vase: < vase74>
+ car: < car116, car82>; person: < person12>; truck: < truck88>; vase: < vase74>
+ car: < car116, car82>; person: < person12>; truck: < truck88>; vase: < vase74>
+ car: < car116, car82>; person: < person12>; truck: < truck88>; vase: < vase74>
+ car: < car116, car82>; person: < person12>; truck: < truck88>; vase: < vase74>
+ car: < car116, car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car116, car82>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person13, person12>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person12, person13, person124>; truck: <>; vase: < vase74>
+ car: < car116>; person: < person12, person13, person124>; truck: <>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: <>; vase: < vase74>
+ car: < car116>; person: < person12, person13, person124>; truck: <>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: <>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: <>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: <>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: <>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: <>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: <>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: <>; vase: < vase74>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: < car116>; person: < person12, person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person12, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person12, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person12, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ person: < person12, person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person12, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person12, person13, person124>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124, person12>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person12, person124, person131>; truck: < truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124, person131>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person12, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck88, truck132>; vase: < vase74>
+ car: < car116>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; train: <>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; train: <>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13, person124>; train: <>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13, person124>; potted_plant: <>; train: <>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13, person124>; train: <>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: <>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: <>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: <>
+ car: < car137>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car137>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: <>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: <>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: <>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>; vase: <>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>
+ car: <>; person: < person13, person124>; truck: < truck88>
+ car: <>; person: < person13, person124>; truck: < truck132, truck88>
+ car: < car141>; person: < person13, person124>; truck: < truck132, truck88>
+ car: < car141>; person: < person13, person124>; truck: < truck132, truck88>
+ bench: <>; car: < car141>; person: < person13>; truck: < truck132, truck88>
+ bench: <>; car: < car137, car141>; person: < person13>; truck: < truck132, truck88>
+ bench: <>; car: < car137, car141>; person: < person13>; truck: < truck132, truck88>
+ car: < car141>; person: < person13>; truck: < truck132, truck88>; vase: <>
+ car: < car141>; person: < person13>; truck: < truck88, truck132>; vase: < vase74>
+ car: < car141>; chair: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ boat: <>; car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88, truck132>; vase: < vase74>
+ boat: <>; car: <>; person: < person13>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88, truck132>; vase: < vase74>
+ boat: <>; car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ boat: <>; car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ boat: <>; car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ boat: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ boat: <>; car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ boat: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car141>; person: < person13, person143>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car141>; person: < person13, person143>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person143>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person143>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car141>; person: < person13, person143>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88, truck132>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person153>; truck: < truck88, truck132>; vase: < vase74>
+ car: < car154>; person: < person13, person153>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person153, person155>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153, person155>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153, person155>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153, person155>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person153>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person153>; truck: < truck132, truck88>; vase: < vase74>
+ car: <>; person: < person13, person153>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153, person155>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153, person155>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person153>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck157, truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck157, truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: <>; vase: < vase74>
+ car: <>; person: < person13>; truck: <>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: <>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: <>
+ car: <>; person: < person13>; truck: <>
+ car: <>; person: < person13>; truck: <>
+ car: <>; person: < person13>; truck: <>
+ car: <>; person: < person13>; truck: <>
+ car: <>; person: < person13>; truck: <>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141>; person: < person13>; truck: <>
+ car: < car141>; person: < person13>; truck: <>; vase: <>
+ car: < car141>; person: < person13>; truck: <>
+ car: < car141>; person: < person13>; truck: < truck88>
+ car: < car141>; person: < person13>; truck: < truck88>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141>; person: < person13, person160>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13, person160>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person160>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person160>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person160>; truck: < truck88>
+ car: <>; person: < person13, person160>; truck: < truck88>; vase: <>
+ car: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: <>; person: < person13, person160>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13, person160>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13, person160>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162>; person: < person13>; truck: < truck88, truck165>; vase: < vase74>
+ car: < car141, car162>; person: < person13>; truck: < truck165, truck166, truck88>; vase: < vase74>
+ car: < car162, car141>; person: < person13>; truck: < truck88, truck166>; vase: < vase74>
+ car: < car162, car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162, car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car162, car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141, car162>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: <>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car169>; person: < person13>; truck: < truck88>
+ car: < car141, car169>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car169>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car169>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car169>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car169>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car170, car171, car169>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car170, car141, car171, car169>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car171, car172>; person: < person13>; truck: < truck170, truck88>
+ car: < car171, car141, car172>; person: < person13>; truck: < truck88>
+ car: < car171, car141, car172>; person: < person13>; truck: < truck88>
+ car: < car171, car141, car172>; person: < person13>; truck: < truck88>
+ car: < car141, car171, car172>; person: < person13>; truck: < truck88>
+ car: < car141, car171, car172>; person: < person13>; truck: < truck88>
+ car: < car171, car172>; person: < person13>; truck: < truck88>
+ car: < car171, car172>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car172>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car171>; person: < person13>; truck: < truck170, truck88>; vase: < vase74>
+ car: < car141, car171>; person: < person13>; truck: < truck170, truck174, truck88>; vase: < vase74>
+ car: < car141, car171>; person: < person13>; truck: < truck174, truck88>; vase: < vase74>
+ car: < car141, car171>; person: < person13>; truck: < truck174, truck88>; vase: <>
+ car: < car141, car171>; person: < person13>; truck: < truck174, truck88>
+ car: < car141, car171>; person: < person13>; truck: < truck88>
+ car: < car141, car171>; person: < person13>; truck: < truck174, truck88>; vase: <>
+ car: < car141, car171>; person: < person13>; truck: < truck174, truck88>; vase: <>
+ car: < car171, car141>; person: < person13>; truck: < truck174, truck88>
+ car: < car171, car141>; person: < person13>; truck: < truck174, truck88>
+ car: < car171, car141>; person: < person13>; truck: < truck88>
+ car: < car171, car141>; person: < person13>; truck: < truck88>
+ car: < car171, car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car141>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car171>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141, car171>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car141, car171>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car171, car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car171, car141>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car171, car141>; person: < person13>; truck: < truck88>
+ car: < car171, car141>; person: < person13>; truck: < truck88>
+ car: < car171, car141>; person: < person13>; truck: < truck88>
+ car: < car171, car177>; person: < person13>; truck: < truck88>
+ car: < car171, car141, car177>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car141, car177, car171>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car141, car177>; person: < person13>; truck: < truck88>
+ car: < car171, car141, car177, car178>; fire_hydrant: <>; person: < person13>; truck: < truck88>
+ car: < car171, car141, car177, car178>; fire_hydrant: <>; person: < person13>; truck: < truck88>
+ car: < car171, car141, car178, car177>; fire_hydrant: <>; person: < person13>; truck: < truck88>
+ car: < car171, car141, car177, car178>; person: < person13>; truck: < truck88>
+ car: < car171, car141, car177, car178>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car141, car178>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car177, car141, car178>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car177, car141, car178, car171>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car178, car177>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car177, car178>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car177, car171>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck88>; vase: <>
+ car: < car171>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car171, car177>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car171, car177>; person: < person13>; truck: < truck180, truck88>; vase: < vase74>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; truck: < truck88, truck180>; vase: < vase74>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; truck: < truck88, truck180>; vase: < vase74>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck180, truck88>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck180, truck88>; vase: <>
+ car: < car171>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck180, truck88>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; kite: <>; person: < person13>; truck: < truck88, truck180>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck180, truck88>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck180, truck88>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck180, truck88>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; kite: <>; person: < person13>; truck: < truck180, truck88>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; kite: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck88>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck88>; vase: <>
+ car: < car171, car177>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck88>; vase: <>
+ car: < car171>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck88>; vase: <>
+ car: < car171>; kite: <>; person: < person13>; truck: < truck180, truck88>; vase: < vase74>
+ car: < car171>; person: < person13>; truck: < truck180, truck88>; vase: < vase74>
+ boat: <>; car: < car171>; fire_hydrant: <>; person: < person13>; truck: < truck180, truck88>; vase: < vase74>
+ car: < car171>; fire_hydrant: <>; person: < person13>; truck: < truck180, truck88>; vase: < vase74>
+ car: < car171>; fire_hydrant: <>; person: <>; truck: < truck180, truck88>; vase: < vase74>
+ car: < car171>; fire_hydrant: <>; person: < person13>; sports_ball: <>; truck: < truck180, truck88>; vase: < vase74>
+ car: < car171>; fire_hydrant: <>; person: <>; truck: < truck180, truck88>; vase: <>
+ boat: <>; car: < car171>; person: < person13>; truck: < truck180, truck88>; vase: <>
+ car: < car171>; person: < person13>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; person: < person13, person183>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; person: < person13, person183>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: <>
+ car: < car171>; fire_hydrant: <>; person: < person13, person183>; truck: < truck88>; vase: <>
+ car: < car171, car184>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car184>; fire_hydrant: <>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car184>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car184>; person: < person13>; truck: < truck88>; vase: <>
+ car: < car171, car184>; person: < person13, person183>; truck: < truck88>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person13, person183>; truck: < truck88>
+ car: < car171, car184>; person: < person13, person183>; truck: < truck88>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; handbag: <>; person: < person13, person183>; truck: < truck88>
+ boat: < boat184>; car: < car171>; handbag: <>; person: < person13, person183>; truck: < truck88>
+ boat: < boat184>; car: < car171>; person: < person183>; truck: < truck88>
+ boat: < boat184>; car: < car171>; person: <>; truck: < truck88>
+ boat: < boat184>; car: < car171>; person: <>; truck: < truck88>
+ boat: < boat184>; car: < car171>; person: < person183>; truck: < truck88>
+ boat: <>; car: < car171>; person: < person183>; truck: < truck88>
+ boat: < boat184>; car: < car171>; person: < person183>; truck: < truck88>; vase: < vase74>
+ boat: <>; car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ boat: < boat184>; car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ boat: < boat184>; car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ boat: <>; car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ boat: <>; car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ boat: <>; car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person183>; truck: < truck186, truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car184>; person: < person13, person183>; truck: < truck88>; vase: <>
+ car: < car171, car184>; person: < person183, person13>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car184>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car184>; person: < person13, person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car184>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car184>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car184>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car184>; person: <>; truck: < truck88>; vase: < vase74>
+ car: < car171, car184>; person: < person13>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: <>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; person: < person183>; truck: < truck184, truck88>
+ car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck196, truck88>; vase: <>
+ car: < car171, car186>; truck: < truck196, truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck196, truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck196, truck88>; vase: <>
+ car: < car171, car186>; kite: <>; person: < person183>; truck: < truck196, truck88>; vase: < vase74>
+ car: < car171, car186>; kite: <>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171>; kite: <>; person: < person183>; truck: < truck88>; vase: < vase74>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; chair: <>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; chair: <>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: <>; truck: <>; vase: <>
+ car: < car171>; person: <>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; kite: <>; person: <>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; kite: <>; person: < person183>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; person: < person183, person199>; truck: <>; vase: <>
+ boat: <>; car: < car171>; person: < person183>; truck: <>; vase: <>
+ boat: <>; car: < car171>; person: < person183, person200>; truck: <>; vase: <>
+ boat: <>; car: < car171>; person: < person183, person200>; truck: < truck88>; vase: <>
+ boat: < boat186>; car: < car171, car200>; person: < person183>; truck: < truck88>; vase: <>
+ boat: < boat186>; car: < car171>; person: < person183, person200>; truck: < truck88>; vase: <>
+ boat: <>; car: < car200, car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ boat: < boat186>; car: < car171>; person: < person183, person200>; truck: < truck88>; vase: <>
+ car: < car171, car200, car186>; person: < person183>; truck: <>
+ boat: <>; car: < car171>; person: < person183>; truck: <>; vase: <>
+ boat: <>; car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; person: < person183>; truck: < truck88>; vase: <>
+ boat: <>; car: < car171>; person: < person183>; truck: <>; vase: <>
+ car: < car171>; person: <>; truck: <>
+ car: < car171>; person: <>; truck: <>
+ car: < car171, car186>; person: <>; truck: <>
+ car: < car171, car186>; person: <>; truck: <>
+ car: < car171, car186>; person: <>; truck: <>
+ car: < car171, car186>; truck: <>
+ car: < car171>; person: <>; truck: < truck186>
+ car: < car171, car186>; person: <>; truck: < truck88>
+ car: < car171>; person: <>; truck: < truck88>
+ car: < car171, car186>; person: <>; truck: < truck88>
+ car: < car171, car186>; person: <>; truck: < truck88>
+ car: < car171, car186>; person: <>; truck: < truck88>
+ car: < car171>; person: <>; truck: < truck88>
+ car: < car171, car186>; person: <>; truck: <>
+ airplane: <>; car: < car186, car171>; person: <>; truck: <>; vase: <>
+ car: < car186, car171>; person: < person183>; truck: <>; vase: <>
+ car: < car171, car186>; person: < person183>; truck: <>; vase: <>
+ airplane: <>; car: < car171, car186>; person: <>; truck: <>; vase: <>
+ car: < car171, car186>; person: <>; truck: <>; vase: <>
+ car: < car171, car186>; person: <>; truck: <>; vase: <>
+ airplane: <>; car: < car171>; person: <>; truck: <>; vase: <>
+ car: < car171>; person: <>; truck: <>; vase: <>
+ car: < car171>; person: <>; truck: <>
+ car: < car171>; person: <>; truck: < truck88>; vase: <>
+ car: < car171>; fire_hydrant: <>; person: <>; truck: < truck88>
+ car: < car171>; person: <>; truck: <>
+ car: < car171>; person: <>; truck: <>
+ car: < car171>; person: <>; traffic_light: <>
+ car: < car171>; person: <>; truck: <>; vase: <>
+ car: < car171>; person: <>; traffic_light: <>; truck: <>; vase: <>
+ car: < car171>; person: <>; truck: <>; vase: <>
+ car: < car171>; person: < person183>; vase: < vase207>
+ car: < car171>; person: < person183>; vase: < vase207>
+ car: < car171>; person: < person183>; vase: < vase207>
+ car: < car171>; person: < person183>; vase: < vase207>
+ car: < car171>; person: <>; truck: <>; vase: < vase207>
+ car: < car171>; person: <>; truck: <>; vase: < vase207>

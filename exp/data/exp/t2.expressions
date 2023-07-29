@@ -1,0 +1,6 @@
+(A in {1} or B in {1}) and (C in {1} or D in {1})
+(A in {1} or C in {2}) and (B in {1} or D in {1})
+(A in {1} or B in {1}) and (C in {2} or D in {1})
+(A in {1} or B in {1}) and (A in {1,2} or D in {1})
+(A in {1} or B in {1}) and (C notin {1,2} or D notin {1} or E in {1})
+A notin {1} or B in {1}

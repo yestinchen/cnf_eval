@@ -1,0 +1,5 @@
+(a >= 15 or a >= 15) and (a >= 15 or a >= 15) and (a >= 15 or a >= 15)
+(b >= 15 or b >= 15) and (b >= 15 or b >= 15) and (b >= 15 or b >= 15)
+(c >= 15 or c >= 15) and (c >= 15 or c >= 15) and (c >= 15 or c >= 15)
+(d >= 15 or d >= 15) and (d >= 15 or d >= 15) and (d >= 15 or d >= 15)
+(e >= 15 or e >= 15) and (e >= 15 or e >= 15) and (e >= 15 or e >= 15)
